@@ -1,183 +1,183 @@
-# 🗂️ SECTION 2 — GitHub Without the Fear
+# 🗂️ SECTION 2 — GitHub Sans la Peur
 
-GitHub scares a lot of beginners. It shouldn't. It's just a place to save your code and see what changed.
+GitHub fait peur à beaucoup de débutants. Ça ne devrait pas. C'est juste un endroit pour sauvegarder ton code et voir ce qui a changé.
 
-**Here's the good news:** Firebase Studio creates your GitHub repo for you automatically. You don't need to set it up manually.
+**La bonne nouvelle :** Firebase Studio crée ton dépôt GitHub pour toi automatiquement. Tu n'as pas besoin de le configurer manuellement.
 
-This section removes the fear and shows you how GitHub works (and how Firebase Studio makes it easy).
+Cette section supprime la peur et te montre comment GitHub fonctionne (et comment Firebase Studio le rend facile).
 
 ---
 
-## Lesson 2.1 — GitHub Explained Like You're 5
+## Leçon 2.1 — GitHub Expliqué Comme si Tu Avais 5 Ans
 
-### What GitHub Actually Is
+### Ce qu'Est Vraiment GitHub
 
-**GitHub is like Google Drive for code.**
+**GitHub, c'est comme Google Drive pour le code.**
 
-- You save your project there
-- You can access it from anywhere
-- You can see what changed
-- You can go back to old versions
+- Tu y sauvegardes ton projet
+- Tu peux y accéder de n'importe où
+- Tu peux voir ce qui a changé
+- Tu peux revenir aux anciennes versions
 
-That's it. No magic. No complexity. Just a place to save your code.
+C'est tout. Pas de magie. Pas de complexité. Juste un endroit pour sauvegarder ton code.
 
-### Repos = Project Folders
+### Dépôts = Dossiers de Projet
 
-A **repository** (repo) is just a folder for your project.
+Un **dépôt** (repo) est juste un dossier pour ton projet.
 
-Think of it like:
-- A folder on your computer = A repo on GitHub
-- Your project files = Your code files
-- Your README = Your project notes
+Pense-y comme :
+- Un dossier sur ton ordinateur = Un dépôt sur GitHub
+- Tes fichiers de projet = Tes fichiers de code
+- Ton README = Tes notes de projet
 
-**Creating a repo is like creating a new folder. That's all.**
+**Créer un dépôt, c'est comme créer un nouveau dossier. C'est tout.**
 
-### Commits = Save Points
+### Commits = Points de Sauvegarde
 
-A **commit** is like saving your game.
+Un **commit** est comme sauvegarder ta partie.
 
-- You make changes to your code
-- You "commit" (save) those changes
-- GitHub remembers what changed
-- You can go back to any save point
+- Tu fais des changements dans ton code
+- Tu les « commit » (sauvegardes)
+- GitHub se souvient de ce qui a changé
+- Tu peux revenir à n'importe quel point de sauvegarde
 
-**It's version control, but think of it as "save points" and it makes sense.**
+**C'est le contrôle de version, mais pense-y comme des « points de sauvegarde » et ça prend tout son sens.**
 
-### Why GitHub Matters Even If You're Not a Dev
+### Pourquoi GitHub est Important Même si Tu N'es Pas Développeur
 
-You might think: "I'm not a developer, why do I need GitHub?"
+Tu pourrais penser : « Je ne suis pas développeur, pourquoi ai-je besoin de GitHub ? »
 
-**Here's why:**
+**Voici pourquoi :**
 
-1. **Your code is safe** — If your computer dies, your code is still on GitHub
-2. **You can see progress** — Look back at what you built and when
-3. **You can work anywhere** — Access your project from any computer
-4. **It's your project's memory** — See what changed and why
-5. **It's professional** — Even if you're a beginner, using GitHub shows you're serious
+1. **Ton code est en sécurité** — Si ton ordinateur tombe en panne, ton code est toujours sur GitHub
+2. **Tu peux voir ta progression** — Regarde ce que tu as construit et quand
+3. **Tu peux travailler de n'importe où** — Accède à ton projet depuis n'importe quel ordinateur
+4. **C'est la mémoire de ton projet** — Vois ce qui a changé et pourquoi
+5. **C'est professionnel** — Même si tu es débutant, utiliser GitHub montre que tu es sérieux
 
-**You don't need to be a developer to benefit from GitHub. You just need to build things.**
+**Tu n'as pas besoin d'être développeur pour profiter de GitHub. Tu as juste besoin de construire des choses.**
 
-### The Mental Model
+### Le Modèle Mental
 
-Think of GitHub like this:
+Pense à GitHub comme ça :
 
 ```
-Your Computer          GitHub
+Ton Ordinateur          GitHub
 ─────────────         ────────
-Project Folder   →    Repository
-Save File       →    Commit
-See Changes     →    View History
+Dossier Projet   →    Dépôt
+Sauvegarder      →    Commit
+Voir Changements →    Voir l'Historique
 ```
 
-**Same concepts, different names. Don't let the terminology scare you.**
+**Mêmes concepts, noms différents. Ne laisse pas la terminologie t'effrayer.**
 
 ---
 
-## Lesson 2.2 — How Firebase Studio Creates Your Repo (The Easy Way)
+## Leçon 2.2 — Comment Firebase Studio Crée ton Dépôt (La Façon Facile)
 
-### Firebase Studio Does It For You
+### Firebase Studio le Fait Pour Toi
 
-**Here's the magic:** You don't manually create a GitHub repo. Firebase Studio does it for you.
+**Voici la magie :** Tu ne crées pas manuellement un dépôt GitHub. Firebase Studio le fait pour toi.
 
-**When you publish/sync your code from Firebase Studio:**
+**Quand tu publies/synchronises ton code depuis Firebase Studio :**
 
-1. Firebase Studio will prompt you to connect to GitHub
-2. It will ask you to create a repo name (like `my-note-app`)
-3. Firebase Studio automatically creates the repo on GitHub
-4. Your code gets synced to that repo automatically
+1. Firebase Studio te demandera de te connecter à GitHub
+2. Il te demandera de créer un nom de dépôt (comme `my-note-app`)
+3. Firebase Studio crée automatiquement le dépôt sur GitHub
+4. Ton code est synchronisé vers ce dépôt automatiquement
 
-**That's it. No manual setup. No confusion. Firebase Studio handles it.**
+**C'est tout. Pas de configuration manuelle. Pas de confusion. Firebase Studio gère ça.**
 
-**Note:** You can always create a GitHub repo manually first if you prefer. But for vibe coding, we use the Firebase Studio automatic approach because it removes friction and gets you building faster. That's the vibe coding way.
+**Note :** Tu peux toujours créer d'abord un dépôt GitHub manuellement si tu préfères. Mais pour le vibe coding, on utilise l'approche automatique de Firebase Studio parce qu'elle supprime les frictions et te permet de construire plus vite. C'est la façon vibe coding.
 
-### What You Need to Do
+### Ce que Tu dois Faire
 
-**Before Firebase Studio can create your repo:**
+**Avant que Firebase Studio puisse créer ton dépôt :**
 
-1. **Create a GitHub account** (if you don't have one)
-   - Go to [GitHub.com](https://github.com)
-   - Sign up (it's free)
-   - That's it
+1. **Créer un compte GitHub** (si tu n'en as pas un)
+   - Va sur [GitHub.com](https://github.com)
+   - Inscris-toi (c'est gratuit)
+   - C'est tout
 
-2. **Connect GitHub to Firebase Studio**
-   - When Firebase Studio asks to connect, authorize it
-   - This lets Firebase Studio create repos for you
+2. **Connecter GitHub à Firebase Studio**
+   - Quand Firebase Studio te demande de se connecter, autorise-le
+   - Cela permet à Firebase Studio de créer des dépôts pour toi
 
-**That's all the setup you need. Firebase Studio does the rest.**
+**C'est toute la configuration dont tu as besoin. Firebase Studio fait le reste.**
 
-### Naming Your Repo
+### Nommer ton Dépôt
 
-When Firebase Studio asks for a repo name, use something descriptive:
+Quand Firebase Studio te demande un nom de dépôt, utilise quelque chose de descriptif :
 
-**Good names:**
+**Bons noms :**
 - `my-note-app`
 - `habit-tracker`
 - `idea-saver`
 - `resource-bookmarker`
 
-**Bad names:**
+**Mauvais noms :**
 - `project`
 - `test`
 - `new-thing`
 - `asdfghjkl`
 
-**Rule:** Name it what it does, not what it is.
+**Règle :** Nomme-le par ce qu'il fait, pas par ce qu'il est.
 
-### Keep Your Repos Private (Important!)
+### Garde tes Dépôts Privés (Important !)
 
-**When Firebase Studio creates your repo, make it private.**
+**Quand Firebase Studio crée ton dépôt, rends-le privé.**
 
-**Why?**
-- Your code is yours (you might not want it public)
-- You might have API keys or sensitive info (we'll cover .gitignore later)
-- Private repos are free on GitHub
+**Pourquoi ?**
+- Ton code t'appartient (tu ne voudras peut-être pas le rendre public)
+- Tu pourrais avoir des clés API ou des infos sensibles (on abordera .gitignore plus tard)
+- Les dépôts privés sont gratuits sur GitHub
 
-**How to make it private:**
-- When Firebase Studio asks, select "Private repository"
-- Or change it later in GitHub settings
+**Comment le rendre privé :**
+- Quand Firebase Studio te le demande, sélectionne « Dépôt privé »
+- Ou change-le plus tard dans les paramètres GitHub
 
-**Don't commit secret keys or sensitive information.** We'll learn about .gitignore later to handle this properly.
+**Ne commit pas de clés secrètes ou d'informations sensibles.** On apprendra .gitignore plus tard pour gérer ça correctement.
 
-### What Happens After Firebase Studio Creates Your Repo
+### Ce qui se Passe Après que Firebase Studio Crée ton Dépôt
 
-**Once Firebase Studio creates your repo:**
+**Une fois que Firebase Studio a créé ton dépôt :**
 
-1. Your code is on GitHub (safe and backed up)
-2. You can clone it to your computer
-3. You can open it in Cursor
-4. You can work on it locally
-5. You can commit changes and push them back
+1. Ton code est sur GitHub (en sécurité et sauvegardé)
+2. Tu peux le cloner sur ton ordinateur
+3. Tu peux l'ouvrir dans Cursor
+4. Tu peux travailler dessus localement
+5. Tu peux committer les changements et les repousser
 
-**Firebase Studio made it easy. Now you can use GitHub like a pro.**
+**Firebase Studio a rendu ça facile. Maintenant tu peux utiliser GitHub comme un pro.**
 
-### Using GitHub as a Project Map
+### Utiliser GitHub comme une Carte de Projet
 
-GitHub isn't just for saving code. It's for tracking your project.
+GitHub ne sert pas qu'à sauvegarder du code. C'est pour suivre ton projet.
 
-**Your commits tell a story:**
-- "Added user authentication"
-- "Created note saving feature"
-- "Fixed login bug"
-- "Added delete functionality"
+**Tes commits racontent une histoire :**
+- « Ajout de l'authentification utilisateur »
+- « Création de la fonctionnalité de sauvegarde de notes »
+- « Correction du bug de connexion »
+- « Ajout de la fonctionnalité de suppression »
 
-**Each commit is a milestone. Together, they're your project's history.**
+**Chaque commit est une étape. Ensemble, ils constituent l'historique de ton projet.**
 
 ---
 
-## 🎯 Action Step
+## 🎯 Exercice Pratique
 
-**Before you build your first app:**
+**Avant de construire ta première application :**
 
-1. **Create a GitHub account** (if you don't have one)
-   - Go to [GitHub.com](https://github.com)
-   - Sign up (it's free)
-   - Verify your email
+1. **Créer un compte GitHub** (si tu n'en as pas un)
+   - Va sur [GitHub.com](https://github.com)
+   - Inscris-toi (c'est gratuit)
+   - Vérifie ton e-mail
 
-2. **That's it!** Firebase Studio will handle the rest when you publish your first app.
+2. **C'est tout !** Firebase Studio s'occupera du reste quand tu publieras ta première application.
 
-**You don't need to create a repo manually. Firebase Studio will do it for you when you sync your code.**
+**Tu n'as pas besoin de créer un dépôt manuellement. Firebase Studio le fera pour toi quand tu synchroniseras ton code.**
 
-**This is the vibe coding way:** Remove friction. Let the tools do the setup. Focus on building, not configuring.
+**C'est la façon vibe coding :** Supprime les frictions. Laisse les outils faire la configuration. Concentre-toi sur la construction, pas la configuration.
 
-**Next:** [SECTION 3 — Cursor: Your AI Co-Builder](./04-cursor.md)
+**Suivant :** [SECTION 3 — Cursor : Ton Co-Développeur IA](./04-cursor.md)
 

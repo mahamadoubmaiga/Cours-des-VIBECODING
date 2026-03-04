@@ -1,240 +1,240 @@
-# 🚢 SECTION 5 — Shipping (Most People Never Get Here)
+# 🚢 SECTION 5 — La Publication (La Plupart des Gens n'y Arrivent Jamais)
 
-Most people build. Few people ship. This section is about crossing that line from "I'm building something" to "I built something, and it's live."
+La plupart des gens construisent. Peu de gens publient. Cette section concerne le franchissement de cette ligne entre « je construis quelque chose » et « j'ai construit quelque chose, et c'est en ligne ».
 
-Shipping is the difference between a hobby and a real project.
-
----
-
-## Lesson 5.1 — What "Shipping" Actually Means
-
-### Shipping ≠ Perfect
-
-**Most people think shipping means:**
-- Everything is perfect
-- All features are done
-- No bugs exist
-- It's ready for millions of users
-
-**Reality: Shipping means:**
-- It works (mostly)
-- People can use it
-- It's live on the internet
-- You can share it
-
-**Your first shipped app doesn't need to be perfect. It needs to work.**
-
-### Shipping = Usable
-
-**A shipped app:**
-- Has a live URL
-- People can access it
-- Core features work
-- Users can accomplish the main goal
-
-**That's it. No perfection required.**
-
-**Example:**
-- ✅ Shipped: A note app where users can sign up, log in, and save notes (even if it's ugly)
-- ❌ Not shipped: A note app with perfect design, advanced features, and zero bugs (but it's not live)
-
-**Shipped beats perfect every time.**
-
-### Why Shipping Beats Learning Forever
-
-**The learning trap:**
-- "I need to learn more before I ship"
-- "I need to add more features"
-- "I need to make it perfect"
-- "I'm not ready yet"
-
-**Result:** You never ship. You just keep learning and building in private.
-
-**The shipping mindset:**
-- "I'll ship this version, then improve it"
-- "I'll add features based on real feedback"
-- "I'll make it better after people use it"
-- "I'm ready to ship now"
-
-**Result:** You ship. You get feedback. You improve. You ship again.
-
-**Shipping is how you actually learn. Not learning, then shipping.**
-
-### The Mindset Shift
-
-**Before shipping:**
-- "What if it's not good enough?"
-- "What if people don't like it?"
-- "What if it has bugs?"
-
-**After shipping:**
-- "It's live. People can use it."
-- "I can get real feedback now."
-- "I can improve it based on what people actually need."
-
-**Shipping transforms your project from "something I'm working on" to "something I built."**
-
-### Why Most People Never Ship
-
-**Reasons people don't ship:**
-1. **Perfectionism** — "It's not ready yet"
-2. **Fear** — "What if people don't like it?"
-3. **Overthinking** — "I need to add one more feature"
-4. **Comparison** — "Other apps are so much better"
-
-**None of these are valid reasons not to ship.**
-
-**Your first version is supposed to be imperfect. That's how you learn.**
+La publication est la différence entre un hobby et un vrai projet.
 
 ---
 
-## Lesson 5.2 — Deploying with Firebase Studio
+## Leçon 5.1 — Ce que Signifie Vraiment « Publier »
 
-### Hosting Your App
+### Publier ≠ Parfait
 
-**Firebase Hosting makes deployment simple:**
-- One-click deployment
-- Automatic SSL certificates
-- Fast CDN
-- Free tier covers most starter projects
+**La plupart des gens pensent que publier signifie :**
+- Tout est parfait
+- Toutes les fonctionnalités sont terminées
+- Aucun bug n'existe
+- C'est prêt pour des millions d'utilisateurs
 
-**You don't need to:**
-- Set up servers
-- Configure domains
-- Manage SSL certificates
-- Worry about scaling
+**Réalité : Publier signifie :**
+- Ça fonctionne (globalement)
+- Les gens peuvent l'utiliser
+- C'est en ligne sur internet
+- Tu peux le partager
 
-**Firebase handles it all.**
+**Ta première application publiée n'a pas besoin d'être parfaite. Elle doit fonctionner.**
 
-### The Deployment Process
+### Publier = Utilisable
 
-**If you've followed the workflow, you've already:**
-- Built your project bones in Firebase Studio
-- Published to create the project in Firebase Console
-- Enabled all services (Auth, Firestore, Hosting)
-- Synced to GitHub
-- Built in Cursor
+**Une application publiée :**
+- A une URL en ligne
+- Les gens peuvent y accéder
+- Les fonctionnalités principales fonctionnent
+- Les utilisateurs peuvent accomplir l'objectif principal
 
-**Now to deploy:**
+**C'est tout. Pas de perfection requise.**
 
-**Step 1: Make sure everything is synced**
-- If you've been working in Cursor, commit and push your changes to GitHub
-- Sync your changes back to Firebase Studio
-- Make sure Firebase Studio has your latest code
+**Exemple :**
+- ✅ Publié : Une application de notes où les utilisateurs peuvent s'inscrire, se connecter et sauvegarder des notes (même si c'est moche)
+- ❌ Pas publié : Une application de notes avec un design parfait, des fonctionnalités avancées et zéro bug (mais elle n'est pas en ligne)
 
-**Step 2: Deploy from Firebase Studio**
-- In Firebase Studio, go to Hosting
-- Click "Deploy" or "Publish"
-- Firebase Studio handles the deployment
-- Wait for it to complete
+**Publié bat parfait à chaque fois.**
 
-**Step 3: Get your live URL**
-- Firebase gives you a URL like: `your-app-name.web.app`
-- That's your live app
-- Share it with the world
+### Pourquoi Publier Bat Apprendre Indéfiniment
 
-**That's it. Your app is live.**
+**Le piège de l'apprentissage :**
+- « J'ai besoin d'apprendre plus avant de publier »
+- « J'ai besoin d'ajouter plus de fonctionnalités »
+- « J'ai besoin de le rendre parfait »
+- « Je ne suis pas encore prêt »
 
-**Note:** Since you enabled Hosting when you set up your project bones, deployment is just one click. That's why we enable services early — it makes deployment simple later.
+**Résultat :** Tu ne publies jamais. Tu continues juste à apprendre et construire en privé.
 
-### Seeing Your App in the Wild
+**Le mindset de publication :**
+- « Je vais publier cette version, puis l'améliorer »
+- « J'ajouterai des fonctionnalités basé sur les vrais retours »
+- « Je l'améliorerai après que les gens l'utilisent »
+- « Je suis prêt à publier maintenant »
 
-**The moment your app goes live:**
-- You have a real URL
-- People can access it
-- It's on the internet
-- You're officially a builder
+**Résultat :** Tu publies. Tu obtiens des retours. Tu améliores. Tu publies à nouveau.
 
-**This is the moment that changes everything.**
+**Publier est la façon dont tu apprends réellement. Pas apprendre, puis publier.**
 
-**Before:** "I'm learning to build apps"
-**After:** "I built an app, and it's live"
+### Le Changement de Perspective
 
-**That's the shift. That's shipping.**
+**Avant la publication :**
+- « Et si ce n'est pas assez bien ? »
+- « Et si les gens ne l'aiment pas ? »
+- « Et s'il y a des bugs ? »
 
-### The Mindset Shift
+**Après la publication :**
+- « C'est en ligne. Les gens peuvent l'utiliser. »
+- « Je peux obtenir de vrais retours maintenant. »
+- « Je peux l'améliorer basé sur ce que les gens ont vraiment besoin. »
 
-**Once it's live, you're officially a builder.**
+**Publier transforme ton projet de « quelque chose sur quoi je travaille » en « quelque chose que j'ai construit ». **
 
-Not a "learner." Not a "beginner." A builder.
+### Pourquoi la Plupart des Gens Ne Publient Jamais
 
-**You built something. You shipped it. You're a builder.**
+**Raisons pour lesquelles les gens ne publient pas :**
+1. **Le perfectionnisme** — « Ce n'est pas encore prêt »
+2. **La peur** — « Et si les gens ne l'aiment pas ? »
+3. **La réflexion excessive** — « J'ai besoin d'ajouter une fonctionnalité de plus »
+4. **La comparaison** — « D'autres applications sont tellement meilleures »
 
-### What Happens After You Ship
+**Aucune de ces raisons n'est valide pour ne pas publier.**
 
-**After you ship:**
-1. **You get real feedback** — People actually use it
-2. **You see what matters** — What features do people actually use?
-3. **You learn what to improve** — Real usage shows you what's broken
-4. **You build momentum** — Shipping one thing makes shipping the next easier
-
-**Shipping is the beginning, not the end.**
-
-### Common Deployment Issues (And How to Fix Them)
-
-**Issue 1: Build errors**
-- **Fix:** Check your build commands in Firebase
-- **Fix:** Make sure all dependencies are installed
-- **Fix:** Check for syntax errors
-- **Ask Cursor:** "I'm getting build errors when deploying. Here's the error: [error]. Help me fix it."
-
-**Issue 2: Environment variables**
-- **Fix:** Make sure Firebase config is set up correctly
-- **Fix:** Check that API keys are included
-- **Fix:** Verify your Firebase project settings match your code
-
-**Issue 3: Routing issues**
-- **Fix:** Configure Firebase hosting rewrites if needed
-- **Fix:** Make sure your app handles routes correctly
-- **Fix:** Check that file paths are relative, not absolute
-
-**Issue 4: App works locally but not deployed**
-- **Fix:** Check browser console on deployed site for errors
-- **Fix:** Verify Firebase config matches your project
-- **Fix:** Make sure all files are included in deployment
-
-**Most issues are simple fixes. Don't let deployment stop you from shipping.**
-
-**For more help:** Check the [Troubleshooting Guide](./09-troubleshooting.md) or ask in the [Skool community](https://www.skool.com/vibe-coding-with-chris-7196).
+**Ta première version est censée être imparfaite. C'est comme ça qu'on apprend.**
 
 ---
 
-## 🎯 Action Step: Ship Your App
+## Leçon 5.2 — Déployer avec Firebase Studio
 
-**Right now, do this:**
+### Héberger ton Application
 
-1. **Make sure your app works locally**
-   - Test all core features
-   - Fix critical bugs
-   - Non-critical bugs can wait
+**Firebase Hosting rend le déploiement simple :**
+- Déploiement en un clic
+- Certificats SSL automatiques
+- CDN rapide
+- Le forfait gratuit couvre la plupart des projets débutants
 
-2. **Deploy to Firebase Hosting**
-   - Go to Firebase Studio
-   - Set up Hosting
-   - Deploy your app
-   - Get your live URL
+**Tu n'as pas besoin de :**
+- Configurer des serveurs
+- Configurer des domaines
+- Gérer des certificats SSL
+- Te soucier de la mise à l'échelle
 
-3. **Share it**
-   - Share the URL with friends
-   - Post it in the Skool community
-   - Get feedback
-   - Celebrate (you shipped!)
+**Firebase gère tout.**
 
-**Don't wait. Don't overthink. Just ship.**
+### Le Processus de Déploiement
 
-**Remember:** Shipping beats perfect. Your first version is supposed to be imperfect.
+**Si tu as suivi le workflow, tu as déjà :**
+- Construit les ossatures de ton projet dans Firebase Studio
+- Publié pour créer le projet dans Firebase Console
+- Activé tous les services (Auth, Firestore, Hébergement)
+- Synchronisé avec GitHub
+- Construit dans Cursor
+
+**Maintenant pour déployer :**
+
+**Étape 1 : Assure-toi que tout est synchronisé**
+- Si tu as travaillé dans Cursor, commit et pousse tes changements vers GitHub
+- Synchronise tes changements de nouveau vers Firebase Studio
+- Assure-toi que Firebase Studio a ton dernier code
+
+**Étape 2 : Déployer depuis Firebase Studio**
+- Dans Firebase Studio, va dans Hébergement
+- Clique sur « Deploy » ou « Publish »
+- Firebase Studio gère le déploiement
+- Attends qu'il se termine
+
+**Étape 3 : Obtenir ton URL en ligne**
+- Firebase te donne une URL comme : `your-app-name.web.app`
+- C'est ton application en ligne
+- Partage-la avec le monde
+
+**C'est tout. Ton application est en ligne.**
+
+**Note :** Puisque tu as activé l'Hébergement quand tu as configuré les ossatures de ton projet, le déploiement n'est qu'un clic. C'est pourquoi on active les services tôt — cela rend le déploiement simple plus tard.
+
+### Voir ton Application dans la Nature
+
+**Au moment où ton application se met en ligne :**
+- Tu as une vraie URL
+- Les gens peuvent y accéder
+- Elle est sur internet
+- Tu es officiellement un créateur
+
+**C'est le moment qui change tout.**
+
+**Avant :** « J'apprends à construire des applications »
+**Après :** « J'ai construit une application, et elle est en ligne »
+
+**C'est le changement. C'est publier.**
+
+### Le Changement de Perspective
+
+**Une fois qu'elle est en ligne, tu es officiellement un créateur.**
+
+Pas un « apprenant ». Pas un « débutant ». Un créateur.
+
+**Tu as construit quelque chose. Tu l'as publié. Tu es un créateur.**
+
+### Ce qui se Passe Après que tu Publies
+
+**Après avoir publié :**
+1. **Tu obtiens de vrais retours** — Les gens l'utilisent vraiment
+2. **Tu vois ce qui compte** — Quelles fonctionnalités les gens utilisent-ils vraiment ?
+3. **Tu apprends ce qu'il faut améliorer** — L'utilisation réelle te montre ce qui est cassé
+4. **Tu construis l'élan** — Publier quelque chose rend la publication du suivant plus facile
+
+**Publier est le début, pas la fin.**
+
+### Problèmes de Déploiement Courants (Et Comment les Corriger)
+
+**Problème 1 : Erreurs de build**
+- **Correction :** Vérifie tes commandes de build dans Firebase
+- **Correction :** Assure-toi que toutes les dépendances sont installées
+- **Correction :** Vérifie les erreurs de syntaxe
+- **Demande à Cursor :** « J'ai des erreurs de build au déploiement. Voici l'erreur : [erreur]. Aide-moi à la corriger. »
+
+**Problème 2 : Variables d'environnement**
+- **Correction :** Assure-toi que la configuration Firebase est correctement configurée
+- **Correction :** Vérifie que les clés API sont incluses
+- **Correction :** Vérifie que les paramètres de ton projet Firebase correspondent à ton code
+
+**Problème 3 : Problèmes de routage**
+- **Correction :** Configure les réécritures Firebase hosting si nécessaire
+- **Correction :** Assure-toi que ton application gère les routes correctement
+- **Correction :** Vérifie que les chemins de fichiers sont relatifs, pas absolus
+
+**Problème 4 : L'application fonctionne localement mais pas une fois déployée**
+- **Correction :** Vérifie la console du navigateur sur le site déployé pour les erreurs
+- **Correction :** Vérifie que la configuration Firebase correspond à ton projet
+- **Correction :** Assure-toi que tous les fichiers sont inclus dans le déploiement
+
+**La plupart des problèmes sont des corrections simples. Ne laisse pas le déploiement t'empêcher de publier.**
+
+**Pour plus d'aide :** Consulte le [Guide de Dépannage](./09-troubleshooting.md) ou demande dans la [communauté Skool](https://www.skool.com/vibe-coding-with-chris-7196).
 
 ---
 
-## 🎉 You Shipped!
+## 🎯 Exercice Pratique : Publie ton Application
 
-**Congratulations. You built something and shipped it.**
+**Maintenant, fais ça :**
 
-**That's the hardest part. Most people never get here.**
+1. **Assure-toi que ton application fonctionne localement**
+   - Teste toutes les fonctionnalités principales
+   - Corrige les bugs critiques
+   - Les bugs non-critiques peuvent attendre
 
-**Now you're a builder. Not a learner. A builder.**
+2. **Déploie dans Firebase Hosting**
+   - Va dans Firebase Studio
+   - Configure l'Hébergement
+   - Déploie ton application
+   - Obtiens ton URL en ligne
 
-**What's next?** Keep building. Keep shipping. Keep improving.
+3. **Partage-la**
+   - Partage l'URL avec tes amis
+   - Poste-la dans la communauté Skool
+   - Obtiens des retours
+   - Célèbre (tu as publié !)
 
-**Next:** [SECTION 6 — How This Turns Into Money](./07-monetize.md)
+**N'attends pas. Ne réfléchis pas trop. Publie juste.**
+
+**Rappel :** Publié bat parfait. Ta première version est censée être imparfaite.
+
+---
+
+## 🎉 Tu as Publié !
+
+**Félicitations. Tu as construit quelque chose et tu l'as publié.**
+
+**C'est la partie la plus difficile. La plupart des gens n'arrivent jamais ici.**
+
+**Tu es maintenant un créateur. Pas un apprenant. Un créateur.**
+
+**Et après ?** Continue à construire. Continue à publier. Continue à améliorer.
+
+**Suivant :** [SECTION 6 — Comment Ça se Transforme en Argent](./07-monetize.md)
 

@@ -1,156 +1,156 @@
-# 🧠 SECTION 0 — Before You Start (Mindset Reset)
+# 🧠 SECTION 0 — Avant de Commencer (Réinitialisation du Mindset)
 
-Most people fail at vibe coding before they even start. Not because they lack talent or intelligence, but because they're carrying the wrong mindset.
+La plupart des gens échouent dans le vibe coding avant même de commencer. Non pas parce qu'ils manquent de talent ou d'intelligence, mais parce qu'ils ont le mauvais état d'esprit.
 
-This section resets your thinking so you can actually build instead of getting stuck.
-
----
-
-## Lesson 0.1 — What "Vibe Coding" Actually Means
-
-### What Vibe Coding IS
-
-**Vibe coding** is building software by focusing on **what you want to happen**, not memorizing how to write code.
-
-It's the difference between:
-- ❌ "I need to learn React, TypeScript, and Node.js before I can build"
-- ✅ "I want an app where users can log in and save notes"
-
-If you can explain what you want, you can build it. That's vibe coding.
-
-### What Vibe Coding Is NOT
-
-- **It's not cheating** — Using AI to build is like using a calculator instead of doing math by hand. It's smart, not lazy.
-- **It's not "fake coding"** — You're building real software that real people use. That's real.
-- **It's not skipping fundamentals** — You're learning the fundamentals that matter: how to think, build, and ship.
-
-### Why Traditional Tutorials Fail Beginners
-
-Traditional coding education teaches you:
-- Syntax first (memorize this, memorize that)
-- Theory before practice
-- "Learn everything" before building anything
-
-**Result:** You spend months learning and never ship anything.
-
-Vibe coding flips this:
-- **Outcomes first** — What should the app do?
-- **Practice immediately** — Build while you learn
-- **Learn what you need** — When you need it
-
-### Using AI as a Builder, Not a Cheat
-
-Here's the mindset shift:
-
-**Old way:** "I need to learn to code, then I can build."
-
-**Vibe coding way:** "I need to build something, and AI helps me do it."
-
-AI (like Cursor) is your co-builder. It handles the syntax. You handle the thinking.
-
-**You're not cheating. You're being efficient.**
-
-### Thinking in Outcomes, Not Syntax
-
-Instead of thinking:
-- "How do I write a function in JavaScript?"
-- "What's the syntax for authentication?"
-
-Think:
-- "I want users to be able to log in"
-- "I want users to save their data"
-
-Describe the behavior. Let the tools figure out the code.
-
-### Key Takeaway
-
-**If you can explain what you want, you can build it.**
-
-That's the entire philosophy. Everything else is just execution.
-
-### The Project Bones Concept
-
-**When we talk about "project bones," we mean:**
-
-- The basic structure and skeleton of your app
-- The foundation that everything else attaches to
-- Not the full app, just the structure
-- Built with a few prompts to get it moving
-
-**Think of it like building a house:**
-- First, you build the foundation and frame (project bones)
-- Then you add walls, plumbing, electrical (features)
-- Then you decorate and finish (polish)
-
-**We build the bones first, then add everything else. This makes the whole process easier.**
+Cette section réinitialise ta façon de penser afin que tu puisses vraiment construire au lieu de rester bloqué.
 
 ---
 
-## Lesson 0.2 — What You Will (and Won't) Learn Here
+## Leçon 0.1 — Ce que Signifie Vraiment le « Vibe Coding »
 
-### What You WON'T Learn
+### Ce qu'EST le Vibe Coding
 
-- ❌ How to memorize code syntax
-- ❌ Every tool and framework in existence
-- ❌ How to become a "real developer" (whatever that means)
-- ❌ Perfect code architecture on day one
+Le **vibe coding** consiste à développer des logiciels en se concentrant sur **ce que tu veux qu'il se passe**, sans mémoriser comment écrire du code.
 
-### What You WILL Learn
+C'est la différence entre :
+- ❌ « Je dois apprendre React, TypeScript et Node.js avant de pouvoir construire quoi que ce soit »
+- ✅ « Je veux une application où les utilisateurs peuvent se connecter et sauvegarder des notes »
 
-- ✅ How to start a project (without overthinking)
-- ✅ How to build something real (even if it's ugly)
-- ✅ How to ship it (get it live on the internet)
-- ✅ How to improve it (iterate based on feedback)
+Si tu peux expliquer ce que tu veux, tu peux le construire. C'est ça le vibe coding.
 
-### The Real Goal
+### Ce que le Vibe Coding N'EST PAS
 
-By the end of this course, you'll have:
-1. Built a real app (not a tutorial copy)
-2. Deployed it to the internet (it's live, people can use it)
-3. Understood the workflow (so you can do it again)
-4. Learned how to turn this into money (because that's the point)
+- **Ce n'est pas tricher** — Utiliser l'IA pour développer, c'est comme utiliser une calculatrice au lieu de faire des maths à la main. C'est intelligent, pas paresseux.
+- **Ce n'est pas du « faux coding »** — Tu construis de vrais logiciels que de vraies personnes utilisent. C'est bien réel.
+- **Ce n'est pas ignorer les fondamentaux** — Tu apprends les fondamentaux qui comptent vraiment : comment penser, construire et publier.
 
-### This Course vs. Daily Training
+### Pourquoi les Tutoriels Traditionnels Échouent avec les Débutants
 
-**This course = Foundation**
+L'enseignement traditionnel du code te demande :
+- D'abord la syntaxe (mémorise ceci, mémorise cela)
+- La théorie avant la pratique
+- « Apprends tout » avant de construire quoi que ce soit
 
-You'll learn:
-- The mindset
-- The tools
-- The workflow
-- One complete build
+**Résultat :** Tu passes des mois à apprendre sans jamais rien publier.
 
-**Daily Skool training = Real progress**
+Le vibe coding renverse tout ça :
+- **Les résultats d'abord** — Que doit faire l'application ?
+- **La pratique immédiate** — Construis tout en apprenant
+- **Apprends ce dont tu as besoin** — Quand tu en as besoin
 
-Inside the [Vibe Coding with Chris Skool community](https://www.skool.com/vibe-coding-with-chris-7196), you get:
-- Daily lessons and build walkthroughs
-- Real projects broken down step-by-step
-- Feedback on your builds
-- Shipping accountability
-- How to turn simple apps into things people pay for
+### Utiliser l'IA comme Développeur, Pas comme Tricheur
 
-**The course gets you started. The community keeps you building.**
+Voici le changement de perspective :
+
+**Ancienne façon :** « Je dois apprendre à coder, ensuite je pourrai construire. »
+
+**Façon vibe coding :** « Je veux construire quelque chose, et l'IA m'aide à le faire. »
+
+L'IA (comme Cursor) est ton co-développeur. Elle gère la syntaxe. Toi, tu gères la réflexion.
+
+**Tu ne triches pas. Tu es efficace.**
+
+### Penser en Termes de Résultats, Pas de Syntaxe
+
+Au lieu de penser :
+- « Comment écrire une fonction en JavaScript ? »
+- « Quelle est la syntaxe pour l'authentification ? »
+
+Pense :
+- « Je veux que les utilisateurs puissent se connecter »
+- « Je veux que les utilisateurs sauvegardent leurs données »
+
+Décris le comportement. Laisse les outils trouver le code.
+
+### Point Clé
+
+**Si tu peux expliquer ce que tu veux, tu peux le construire.**
+
+C'est toute la philosophie. Tout le reste n'est qu'exécution.
+
+### Le Concept des Ossatures de Projet
+
+**Quand on parle des « ossatures du projet », on entend par là :**
+
+- La structure de base et le squelette de ton application
+- La fondation sur laquelle tout le reste vient s'attacher
+- Pas l'application complète, juste la structure
+- Construite avec quelques invites pour la mettre en marche
+
+**Pense-y comme construire une maison :**
+- D'abord, tu construis les fondations et la charpente (les ossatures du projet)
+- Ensuite tu ajoutes les murs, la plomberie, l'électricité (les fonctionnalités)
+- Puis tu décores et tu termines (le polish)
+
+**On construit d'abord les ossatures, puis on ajoute tout le reste. Cela rend tout le processus plus facile.**
 
 ---
 
-## 🎯 Action Step
+## Leçon 0.2 — Ce que Tu Vas (et ne Vas pas) Apprendre Ici
 
-Before moving to Section 1, answer this:
+### Ce que Tu N'apprendras PAS
 
-**What's one thing you want to build that you've been putting off?**
+- ❌ Comment mémoriser la syntaxe du code
+- ❌ Tous les outils et frameworks qui existent
+- ❌ Comment devenir un « vrai développeur » (peu importe ce que ça signifie)
+- ❌ Une architecture de code parfaite dès le premier jour
 
-Write it in one sentence. No tech words. Just what you want it to do.
+### Ce que Tu Vas Apprendre
 
-**Examples:**
-- "I want something that helps people track their daily habits without using spreadsheets."
-- "I want an app where I can save ideas and see them later."
-- "I want a simple tool that lets me save links to resources I want to remember."
+- ✅ Comment démarrer un projet (sans trop y penser)
+- ✅ Comment construire quelque chose de réel (même si c'est moche)
+- ✅ Comment le publier (le mettre en ligne sur internet)
+- ✅ Comment l'améliorer (itérer selon les retours)
 
-**That's your first project idea. We'll come back to it in Section 4.**
+### Le Véritable Objectif
 
-**Don't overthink it. Just write one sentence.**
+À la fin de ce cours, tu auras :
+1. Construit une vraie application (pas une copie de tutoriel)
+2. Déployée sur internet (elle est en ligne, les gens peuvent l'utiliser)
+3. Compris le workflow (pour pouvoir le refaire)
+4. Appris comment transformer ça en argent (parce que c'est le but)
+
+### Ce Cours vs. La Formation Quotidienne
+
+**Ce cours = Fondations**
+
+Tu vas apprendre :
+- Le mindset
+- Les outils
+- Le workflow
+- Une construction complète
+
+**La formation quotidienne Skool = Vrai progrès**
+
+Au sein de la [communauté Skool Vibe Coding avec Chris](https://www.skool.com/vibe-coding-with-chris-7196), tu obtiens :
+- Des leçons quotidiennes et des walkthroughs de construction
+- De vrais projets décomposés étape par étape
+- Des retours sur tes constructions
+- Une responsabilisation sur la publication
+- Comment transformer des applications simples en choses pour lesquelles les gens paient
+
+**Le cours te lance. La communauté te garde en mouvement.**
 
 ---
 
-**Next:** [SECTION 1 — The Vibe Coding Stack (Simple + Free)](./02-tools.md)
+## 🎯 Exercice Pratique
+
+Avant de passer à la Section 1, réponds à cette question :
+
+**Quelle est la chose que tu veux construire et que tu repousses depuis un moment ?**
+
+Écris-la en une phrase. Pas de termes techniques. Juste ce que tu veux que ça fasse.
+
+**Exemples :**
+- « Je veux quelque chose qui aide les gens à suivre leurs habitudes quotidiennes sans utiliser de tableurs. »
+- « Je veux une application où je peux sauvegarder des idées et les voir plus tard. »
+- « Je veux un outil simple qui me permet de sauvegarder des liens vers des ressources que je veux retenir. »
+
+**C'est ton première idée de projet. On y reviendra à la Section 4.**
+
+**Ne te prends pas la tête. Écris juste une phrase.**
+
+---
+
+**Suivant :** [SECTION 1 — La Stack Vibe Coding (Simple + Gratuit)](./02-tools.md)
 

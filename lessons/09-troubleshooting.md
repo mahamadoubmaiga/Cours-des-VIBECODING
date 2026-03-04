@@ -1,39 +1,39 @@
-# 🔧 Troubleshooting: When Things Break
+# 🔧 Dépannage : Quand Les Choses se Cassent
 
-Things will break. That's normal. This section helps you fix the most common issues without panicking.
-
----
-
-## The Mindset
-
-**When something breaks:**
-1. Don't panic
-2. Read the error message
-3. Ask Cursor to fix it
-4. If that doesn't work, ask the community
-
-**Most errors are simple fixes. You just need to know where to look.**
+Les choses vont se casser. C'est normal. Cette section t'aide à corriger les problèmes les plus courants sans paniquer.
 
 ---
 
-## Common Firebase Issues
+## Le Mindset
 
-### "Firebase is not defined"
+**Quand quelque chose se casse :**
+1. Ne panique pas
+2. Lis le message d'erreur
+3. Demande à Cursor de le corriger
+4. Si ça ne fonctionne pas, demande à la communauté
 
-**What it means:** Your Firebase SDK isn't loaded or configured correctly.
+**La plupart des erreurs sont des corrections simples. Tu as juste besoin de savoir où chercher.**
 
-**How to fix:**
-1. Make sure you've included the Firebase SDK in your HTML
-2. Check that your Firebase config is correct
-3. Ask Cursor: "I'm getting 'Firebase is not defined' error. Check my Firebase configuration and make sure it's set up correctly."
+---
 
-### "Permission denied" in Firestore
+## Problèmes Courants Firebase
 
-**What it means:** Your security rules are blocking the operation.
+### « Firebase is not defined »
 
-**How to fix:**
-1. Go to Firebase Console → Firestore Database → Rules
-2. For development, you can temporarily use:
+**Ce que ça signifie :** Ton SDK Firebase n'est pas chargé ou configuré correctement.
+
+**Comment corriger :**
+1. Assure-toi que tu as inclus le SDK Firebase dans ton HTML
+2. Vérifie que ta configuration Firebase est correcte
+3. Demande à Cursor : « J'ai une erreur 'Firebase is not defined'. Vérifie ma configuration Firebase et assure-toi qu'elle est correctement configurée. »
+
+### « Permission denied » dans Firestore
+
+**Ce que ça signifie :** Tes règles de sécurité bloquent l'opération.
+
+**Comment corriger :**
+1. Va dans Firebase Console → Base de données Firestore → Règles
+2. Pour le développement, tu peux temporairement utiliser :
    ```
    rules_version = '2';
    service cloud.firestore {
@@ -44,168 +44,168 @@ Things will break. That's normal. This section helps you fix the most common iss
      }
    }
    ```
-3. **Warning:** This allows any logged-in user to read/write everything. Fine for learning, not for production.
+3. **Avertissement :** Cela permet à tout utilisateur connecté de lire/écrire tout. Bien pour l'apprentissage, pas pour la production.
 
-**Ask Cursor:** "I'm getting permission denied errors. Help me set up basic Firestore security rules for development."
+**Demande à Cursor :** « J'ai des erreurs de permission refusée. Aide-moi à configurer des règles de sécurité Firestore de base pour le développement. »
 
-### Authentication not working
+### L'authentification ne fonctionne pas
 
-**What it means:** Auth might not be enabled or configured correctly.
+**Ce que ça signifie :** L'auth n'est peut-être pas activée ou configurée correctement.
 
-**How to fix:**
-1. Go to Firebase Console → Authentication → Sign-in method
-2. Enable "Email/Password"
-3. Make sure your auth code matches your Firebase config
-4. Check the browser console for specific error messages
+**Comment corriger :**
+1. Va dans Firebase Console → Authentification → Méthode de connexion
+2. Active « Email/Mot de passe »
+3. Assure-toi que ton code auth correspond à ta configuration Firebase
+4. Vérifie la console du navigateur pour des messages d'erreur spécifiques
 
-**Ask Cursor:** "My Firebase authentication isn't working. Check my auth code and help me debug it."
-
----
-
-## Common Cursor Issues
-
-### Cursor generates code that doesn't work
-
-**What it means:** The prompt wasn't specific enough, or Cursor made an assumption.
-
-**How to fix:**
-1. Be more specific in your prompt
-2. Show Cursor the error message
-3. Ask: "This code isn't working. Here's the error: [error]. Fix it."
-4. Provide context about what you're trying to do
-
-**Example:**
-❌ "Fix this"
-✅ "This Firebase auth code isn't working. The error says 'auth/operation-not-allowed'. I'm trying to let users sign up with email and password. Fix it."
-
-### Cursor doesn't understand my project
-
-**What it means:** Cursor needs more context about your codebase.
-
-**How to fix:**
-1. Make sure you've opened the entire project folder in Cursor
-2. Reference specific files in your prompts
-3. Show Cursor related code: "Here's my auth code [code]. Now I want to add a logout button. Make it work with this existing code."
+**Demande à Cursor :** « Mon authentification Firebase ne fonctionne pas. Vérifie mon code auth et aide-moi à le déboguer. »
 
 ---
 
-## Common GitHub Issues
+## Problèmes Courants Cursor
 
-### "Repository not found"
+### Cursor génère du code qui ne fonctionne pas
 
-**What it means:** GitHub can't find your repo, or you're not authenticated.
+**Ce que ça signifie :** L'invite n'était pas assez spécifique, ou Cursor a fait une hypothèse.
 
-**How to fix:**
-1. Make sure you're logged into GitHub
-2. Check that the repo name is correct
-3. Verify you have access to the repo
-4. Try cloning it fresh: `git clone [repo-url]`
+**Comment corriger :**
+1. Sois plus spécifique dans ton invite
+2. Montre à Cursor le message d'erreur
+3. Demande : « Ce code ne fonctionne pas. Voici l'erreur : [erreur]. Corrige-le. »
+4. Fournis du contexte sur ce que tu essaies de faire
 
-### "Changes not showing up"
+**Exemple :**
+❌ « Corrige ça »
+✅ « Ce code d'auth Firebase ne fonctionne pas. L'erreur dit 'auth/operation-not-allowed'. J'essaie de laisser les utilisateurs s'inscrire avec un email et un mot de passe. Corrige-le. »
 
-**What it means:** You haven't committed and pushed your changes.
+### Cursor ne comprend pas mon projet
 
-**How to fix:**
-1. Commit your changes: `git add .` then `git commit -m "Your message"`
-2. Push to GitHub: `git push`
-3. Refresh GitHub in your browser
+**Ce que ça signifie :** Cursor a besoin de plus de contexte sur ta base de code.
 
-**Ask Cursor:** "Help me commit and push my changes to GitHub. Walk me through the git commands."
-
----
-
-## Common Deployment Issues
-
-### Build errors when deploying
-
-**What it means:** Your code has errors, or the build process is failing.
-
-**How to fix:**
-1. Test your app locally first
-2. Check the Firebase deployment logs for specific errors
-3. Fix the errors locally
-4. Try deploying again
-
-**Ask Cursor:** "I'm getting build errors when deploying to Firebase. Here's the error: [error]. Help me fix it."
-
-### App works locally but not when deployed
-
-**What it means:** Environment variables or paths might be wrong.
-
-**How to fix:**
-1. Check that your Firebase config is correct
-2. Make sure all file paths are relative (not absolute)
-3. Check the browser console on the deployed site for errors
-4. Verify your Firebase project settings match your code
-
-**Ask Cursor:** "My app works locally but breaks when deployed. Help me debug the differences between local and deployed environments."
+**Comment corriger :**
+1. Assure-toi que tu as ouvert tout le dossier du projet dans Cursor
+2. Référence des fichiers spécifiques dans tes invites
+3. Montre à Cursor le code associé : « Voici mon code auth [code]. Maintenant je veux ajouter un bouton de déconnexion. Fais-le fonctionner avec ce code existant. »
 
 ---
 
-## The "It Just Doesn't Work" Problem
+## Problèmes Courants GitHub
 
-**When nothing seems to work:**
+### « Repository not found »
 
-1. **Take a break** — Sometimes stepping away helps
-2. **Simplify** — Strip it down to the absolute basics
-3. **Start fresh** — Sometimes starting over is faster than debugging
-4. **Ask for help** — In the [Skool community](https://www.skool.com/vibe-coding-with-chris-7196)
+**Ce que ça signifie :** GitHub ne peut pas trouver ton dépôt, ou tu n'es pas authentifié.
 
-**Remember:** Every builder hits this. It's normal. You're not broken. The code is.
+**Comment corriger :**
+1. Assure-toi d'être connecté à GitHub
+2. Vérifie que le nom du dépôt est correct
+3. Vérifie que tu as accès au dépôt
+4. Essaie de le cloner à nouveau : `git clone [repo-url]`
 
----
+### « Les changements n'apparaissent pas »
 
-## How to Ask for Help
+**Ce que ça signifie :** Tu n'as pas commité et poussé tes changements.
 
-**When asking for help (in the community or to Cursor), include:**
+**Comment corriger :**
+1. Commit tes changements : `git add .` puis `git commit -m "Ton message"`
+2. Pousse vers GitHub : `git push`
+3. Rafraîchis GitHub dans ton navigateur
 
-1. **What you're trying to do** — The goal
-2. **What you expected to happen** — Expected behavior
-3. **What actually happened** — Actual behavior
-4. **The error message** — Copy/paste the exact error
-5. **What you've tried** — Steps you've already taken
-
-**Example:**
-"I'm trying to let users save notes to Firestore. I expected the note to save when they click submit. Instead, I get an error: 'Permission denied'. I've checked that auth is enabled and the user is logged in. What am I missing?"
-
-**Good questions get good answers. Be specific.**
+**Demande à Cursor :** « Aide-moi à commiter et pousser mes changements vers GitHub. Explique-moi les commandes git. »
 
 ---
 
-## The Debugging Mindset
+## Problèmes Courants de Déploiement
 
-**When something breaks:**
+### Erreurs de build au déploiement
 
-1. **Read the error** — It usually tells you what's wrong
-2. **Check the console** — Browser dev tools show errors
-3. **Simplify** — Remove features until it works, then add them back
-4. **Use Cursor** — Ask it to debug: "Debug this code. Here's the error: [error]"
-5. **Ask the community** — Someone has probably hit this before
+**Ce que ça signifie :** Ton code a des erreurs, ou le processus de build échoue.
 
-**Most bugs are simple. You just need to find them.**
+**Comment corriger :**
+1. Teste ton application localement d'abord
+2. Vérifie les logs de déploiement Firebase pour des erreurs spécifiques
+3. Corrige les erreurs localement
+4. Essaie de déployer à nouveau
+
+**Demande à Cursor :** « J'ai des erreurs de build au déploiement vers Firebase. Voici l'erreur : [erreur]. Aide-moi à la corriger. »
+
+### L'application fonctionne localement mais pas une fois déployée
+
+**Ce que ça signifie :** Les variables d'environnement ou les chemins pourraient être incorrects.
+
+**Comment corriger :**
+1. Vérifie que ta configuration Firebase est correcte
+2. Assure-toi que tous les chemins de fichiers sont relatifs (pas absolus)
+3. Vérifie la console du navigateur sur le site déployé pour des erreurs
+4. Vérifie que les paramètres de ton projet Firebase correspondent à ton code
+
+**Demande à Cursor :** « Mon application fonctionne localement mais se casse une fois déployée. Aide-moi à déboguer les différences entre les environnements local et déployé. »
 
 ---
 
-## 🎯 Quick Reference: Common Fixes
+## Le Problème « Rien ne Fonctionne »
 
-| Problem | Quick Fix |
+**Quand rien ne semble fonctionner :**
+
+1. **Fais une pause** — Parfois s'éloigner aide
+2. **Simplifie** — Réduis-le aux bases absolues
+3. **Recommence à zéro** — Parfois repartir de zéro est plus rapide que déboguer
+4. **Demande de l'aide** — Dans la [communauté Skool](https://www.skool.com/vibe-coding-with-chris-7196)
+
+**Rappelle-toi :** Chaque développeur passe par là. C'est normal. Tu n'es pas cassé. C'est le code qui l'est.
+
+---
+
+## Comment Demander de l'Aide
+
+**Quand tu demandes de l'aide (dans la communauté ou à Cursor), inclus :**
+
+1. **Ce que tu essaies de faire** — L'objectif
+2. **Ce que tu attendais** — Le comportement attendu
+3. **Ce qui s'est vraiment passé** — Le comportement réel
+4. **Le message d'erreur** — Copie/colle l'erreur exacte
+5. **Ce que tu as essayé** — Les étapes que tu as déjà suivies
+
+**Exemple :**
+« J'essaie de laisser les utilisateurs sauvegarder des notes dans Firestore. J'attendais que la note soit sauvegardée quand ils cliquent sur soumettre. À la place, j'obtiens une erreur : 'Permission denied'. J'ai vérifié que l'auth est activée et que l'utilisateur est connecté. Qu'est-ce qui me manque ? »
+
+**Les bonnes questions obtiennent de bonnes réponses. Sois spécifique.**
+
+---
+
+## Le Mindset de Débogage
+
+**Quand quelque chose se casse :**
+
+1. **Lis l'erreur** — Elle te dit généralement ce qui ne va pas
+2. **Vérifie la console** — Les outils de développement du navigateur montrent les erreurs
+3. **Simplifie** — Supprime les fonctionnalités jusqu'à ce que ça fonctionne, puis ajoute-les de nouveau
+4. **Utilise Cursor** — Demande-lui de déboguer : « Déboguez ce code. Voici l'erreur : [erreur] »
+5. **Demande à la communauté** — Quelqu'un est probablement déjà passé par là
+
+**La plupart des bugs sont simples. Tu as juste besoin de les trouver.**
+
+---
+
+## 🎯 Référence Rapide : Corrections Courantes
+
+| Problème | Correction Rapide |
 |---------|-----------|
-| Firebase not defined | Check Firebase SDK is loaded |
-| Permission denied | Update Firestore security rules |
-| Auth not working | Enable Email/Password in Firebase Console |
-| Cursor code doesn't work | Be more specific in your prompt |
-| GitHub repo not found | Check you're logged in and repo exists |
-| Build errors | Test locally first, fix errors, then deploy |
-| Works locally, breaks deployed | Check environment variables and paths |
+| Firebase non défini | Vérifie que le SDK Firebase est chargé |
+| Permission refusée | Mets à jour les règles de sécurité Firestore |
+| Auth ne fonctionne pas | Active Email/Mot de passe dans Firebase Console |
+| Le code Cursor ne fonctionne pas | Sois plus spécifique dans ton invite |
+| Dépôt GitHub introuvable | Vérifie que tu es connecté et que le dépôt existe |
+| Erreurs de build | Teste localement d'abord, corrige les erreurs, puis déploie |
+| Fonctionne localement, se casse une fois déployé | Vérifie les variables d'environnement et les chemins |
 
 ---
 
-**Remember:** Breaking things is how you learn. Every error is a lesson.
+**Rappelle-toi :** Casser des choses, c'est comme ça qu'on apprend. Chaque erreur est une leçon.
 
-**Next:** Keep building. Keep breaking. Keep fixing. That's vibe coding.
+**Suivant :** Continue à construire. Continue à casser. Continue à corriger. C'est le vibe coding.
 
 ---
 
-*Stuck? Join the [Vibe Coding with Chris Skool community](https://www.skool.com/vibe-coding-with-chris-7196) for help and support.*
+*Bloqué ? Rejoins la [communauté Skool Vibe Coding avec Chris](https://www.skool.com/vibe-coding-with-chris-7196) pour de l'aide et du soutien.*
 
 

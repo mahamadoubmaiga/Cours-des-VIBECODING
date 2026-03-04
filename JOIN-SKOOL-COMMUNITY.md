@@ -1,146 +1,146 @@
-# 🚀 Join the Vibe Coding with Chris Skool Community
+# 🚀 Rejoins la Communauté Skool Vibe Coding avec Chris
 
 <div align="center">
 
-### **This Course is Free. The Community is Where You Level Up.**
+### **Ce Cours est Gratuit. La Communauté est Là Où Tu Montes en Niveau.**
 
 </div>
 
 ---
 
-## 🎁 What You Get Here (Free)
+## 🎁 Ce que Tu Obtiens Ici (Gratuit)
 
-**This complete GitHub course is 100% free.** You get:
-- ✅ The full vibe coding workflow
-- ✅ Step-by-step lessons
-- ✅ How to build and ship your first app
-- ✅ The exact stack that works
-- ✅ Troubleshooting guide
-- ✅ Quick reference
+**Ce cours GitHub complet est 100% gratuit.** Tu obtiens :
+- ✅ Le workflow complet du vibe coding
+- ✅ Des leçons étape par étape
+- ✅ Comment construire et publier ta première application
+- ✅ La stack exacte qui fonctionne
+- ✅ Un guide de dépannage
+- ✅ Une référence rapide
 
-**Everything you need to get started is right here. No paywall. No gatekeeping.**
-
----
-
-## 🚀 What You Get in the Skool Community (Level Up)
-
-**This course teaches you the basics. The community shows you the secrets.**
-
-### Inside the [Vibe Coding with Chris Skool Community](https://www.skool.com/vibe-coding-with-chris-7196):
-
-**💰 Passive Income Strategies**
-- See exactly how I build projects that generate passive income
-- Real examples of apps making money
-- How to turn simple ideas into income streams
-- Scaling from one app to a portfolio
-
-**🔧 Advanced Workflows**
-- My real workflow for building software that makes money
-- Advanced techniques I don't share publicly
-- How to optimize your build process
-- Time-saving strategies that actually work
-
-**📚 Daily Content**
-- Daily build walkthroughs
-- Real projects broken down step-by-step
-- Live feedback on your builds
-- Shipping accountability
-
-**💬 Direct Access**
-- Ask questions and get unstuck fast
-- See how other builders are doing it
-- Learn from real mistakes and wins
-- Community support
-
-**🎯 Monetization Deep Dives**
-- How to price your products
-- Strategies that actually work
-- Real examples of vibe coders making money
-- Turning apps into businesses
+**Tout ce dont tu as besoin pour commencer est ici. Pas de paywall. Pas de garde-fous.**
 
 ---
 
-## 💵 Investment
+## 🚀 Ce que Tu Obtiens dans la Communauté Skool (Monter en Niveau)
 
-**$15/month**
+**Ce cours t'enseigne les bases. La communauté te montre les secrets.**
 
-That's less than a coffee per week for:
-- Access to everything I know about building software that makes money
-- Daily lessons and real builds
-- Community support and accountability
-- Strategies I use to generate passive income
+### À l'Intérieur de la [Communauté Skool Vibe Coding avec Chris](https://www.skool.com/vibe-coding-with-chris-7196) :
 
-**No long-term commitment. Cancel anytime.**
+**💰 Stratégies de Revenus Passifs**
+- Vois exactement comment je construis des projets qui génèrent des revenus passifs
+- De vrais exemples d'applications qui gagnent de l'argent
+- Comment transformer des idées simples en sources de revenus
+- Passer d'une application à un portfolio
+
+**🔧 Workflows Avancés**
+- Mon vrai workflow pour construire des logiciels qui font de l'argent
+- Des techniques avancées que je ne partage pas publiquement
+- Comment optimiser ton processus de construction
+- Des stratégies qui font gagner du temps et qui fonctionnent vraiment
+
+**📚 Contenu Quotidien**
+- Walkthroughs de construction quotidiens
+- De vrais projets décomposés étape par étape
+- Des retours en direct sur tes constructions
+- Responsabilisation sur la publication
+
+**💬 Accès Direct**
+- Pose des questions et débloque-toi rapidement
+- Vois comment d'autres développeurs le font
+- Apprends de vraies erreurs et victoires
+- Soutien de la communauté
+
+**🎯 Plongées en Profondeur sur la Monétisation**
+- Comment fixer le prix de tes produits
+- Des stratégies qui fonctionnent vraiment
+- De vrais exemples de vibe coders qui gagnent de l'argent
+- Transformer des applications en entreprises
 
 ---
 
-## 🎯 Who This Is For
+## 💵 Investissement
 
-**Join if you want to:**
-- ✅ Go from beginner to pro
-- ✅ See how passive income projects actually work
-- ✅ Learn advanced strategies not in the free course
-- ✅ Get daily support and accountability
-- ✅ Turn your vibe coding skills into real income
+**15 €/mois**
 
-**Don't join if you:**
-- ❌ Just want to learn theory without building
-- ❌ Want to be a "real developer" before shipping
-- ❌ Want perfect code on day one
-- ❌ Want to learn everything before building anything
+C'est moins d'un café par semaine pour :
+- L'accès à tout ce que je sais sur la construction de logiciels qui font de l'argent
+- Des leçons quotidiennes et de vraies constructions
+- Soutien et responsabilisation communautaires
+- Des stratégies que j'utilise pour générer des revenus passifs
+
+**Aucun engagement à long terme. Annule à tout moment.**
 
 ---
 
-## 🚀 Ready to Level Up?
+## 🎯 Pour Qui C'est
+
+**Rejoins si tu veux :**
+- ✅ Passer de débutant à pro
+- ✅ Voir comment les projets de revenus passifs fonctionnent vraiment
+- ✅ Apprendre des stratégies avancées qui ne sont pas dans le cours gratuit
+- ✅ Obtenir un soutien et une responsabilisation quotidiens
+- ✅ Transformer tes compétences de vibe coding en vrai revenu
+
+**Ne rejoins pas si tu :**
+- ❌ Veux juste apprendre la théorie sans construire
+- ❌ Veux être un « vrai développeur » avant de publier
+- ❌ Veux du code parfait dès le premier jour
+- ❌ Veux tout apprendre avant de construire quoi que ce soit
+
+---
+
+## 🚀 Prêt à Monter en Niveau ?
 
 <div align="center">
 
-### **[👉 Join the Vibe Coding with Chris Skool Community →](https://www.skool.com/vibe-coding-with-chris-7196)**
+### **[👉 Rejoins la Communauté Skool Vibe Coding avec Chris →](https://www.skool.com/vibe-coding-with-chris-7196)**
 
-**$15/month. No gatekeeping. Just building and making money.**
+**15 €/mois. Pas de garde-fous. Juste construire et gagner de l'argent.**
 
 </div>
 
 ---
 
-## 📝 What Happens After You Join
+## 📝 Ce qui se Passe Après que tu Rejoins
 
-1. **Introduce yourself** — Tell the community what you're building
-2. **Start with the free course** — Complete the GitHub course first
-3. **Share your progress** — Post your builds and get feedback
-4. **Learn the secrets** — See how passive income projects actually work
-5. **Ship and monetize** — Turn your apps into real income
+1. **Présente-toi** — Dis à la communauté ce que tu construis
+2. **Commence par le cours gratuit** — Complète d'abord le cours GitHub
+3. **Partage ta progression** — Poste tes constructions et obtiens des retours
+4. **Apprends les secrets** — Vois comment les projets de revenus passifs fonctionnent vraiment
+5. **Publie et monétise** — Transforme tes applications en vrai revenu
 
 ---
 
-## 💡 The Difference
+## 💡 La Différence
 
-**Free Course (GitHub):**
-- Foundation and basics
-- How to build and ship
-- The workflow
-- One complete build
+**Cours Gratuit (GitHub) :**
+- Fondations et bases
+- Comment construire et publier
+- Le workflow
+- Une construction complète
 
-**Skool Community:**
-- Advanced strategies
-- Passive income methods
-- Real workflows that make money
-- Daily support and accountability
-- Secrets I don't share publicly
+**Communauté Skool :**
+- Stratégies avancées
+- Méthodes de revenus passifs
+- De vrais workflows qui font de l'argent
+- Soutien et responsabilisation quotidiens
+- Des secrets que je ne partage pas publiquement
 
-**The course gets you started. The community makes you a pro.**
+**Le cours te lance. La communauté fait de toi un pro.**
 
 ---
 
 <div align="center">
 
-### **[👉 Join Now →](https://www.skool.com/vibe-coding-with-chris-7196)**
+### **[👉 Rejoins Maintenant →](https://www.skool.com/vibe-coding-with-chris-7196)**
 
-**See you inside! 👊**
+**À bientôt à l'intérieur ! 👊**
 
 </div>
 
 ---
 
-*Built by [Chris Porter](https://www.skool.com/vibe-coding-with-chris-7196) | [Vibe Coding with Chris](https://www.skool.com/vibe-coding-with-chris-7196)*
+*Créé par [Chris Porter](https://www.skool.com/vibe-coding-with-chris-7196) | [Vibe Coding avec Chris](https://www.skool.com/vibe-coding-with-chris-7196)*
 

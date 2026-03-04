@@ -1,331 +1,331 @@
-# 🤖 SECTION 3 — Cursor: Your AI Co-Builder
+# 🤖 SECTION 3 — Cursor : Ton Co-Développeur IA
 
-Cursor is where the magic happens. It's not just a code editor. It's an AI co-builder that understands your entire project and helps you build faster.
+Cursor, c'est là où la magie opère. Ce n'est pas juste un éditeur de code. C'est un co-développeur IA qui comprend l'intégralité de ton projet et t'aide à construire plus vite.
 
-This section shows you how to use Cursor like a pro (even if you're a beginner).
+Cette section te montre comment utiliser Cursor comme un pro (même si tu es débutant).
 
 ---
 
-## Lesson 3.1 — What Cursor Does Differently
+## Leçon 3.1 — Ce que Cursor Fait Différemment
 
-### Why Cursor Beats Copy/Paste ChatGPT
+### Pourquoi Cursor Surpasse le Copier/Coller avec ChatGPT
 
-**The old way (ChatGPT):**
-1. Copy your code
-2. Paste it into ChatGPT
-3. Ask a question
-4. Copy the answer
-5. Paste it back
-6. Hope it works
-7. Repeat
+**L'ancienne façon (ChatGPT) :**
+1. Copier ton code
+2. Le coller dans ChatGPT
+3. Poser une question
+4. Copier la réponse
+5. La recoller
+6. Espérer que ça fonctionne
+7. Recommencer
 
-**The Cursor way:**
-1. Ask a question in your editor
-2. Cursor understands your entire codebase
-3. It edits files directly
-4. You see the changes immediately
-5. You keep building
+**La façon Cursor :**
+1. Poser une question dans ton éditeur
+2. Cursor comprend toute ta base de code
+3. Il modifie les fichiers directement
+4. Tu vois les changements immédiatement
+5. Tu continues à construire
 
-**Cursor is AI inside your codebase, not AI in a separate window.**
+**Cursor est l'IA à l'intérieur de ta base de code, pas l'IA dans une fenêtre séparée.**
 
-### AI Inside Your Codebase
+### L'IA à l'Intérieur de ta Base de Code
 
-Here's what makes Cursor different:
+Voici ce qui rend Cursor différent :
 
-**Context awareness:**
-- Cursor sees all your files
-- It understands your project structure
-- It knows what you're working on
-- It suggests changes that fit your codebase
+**Conscience du contexte :**
+- Cursor voit tous tes fichiers
+- Il comprend la structure de ton projet
+- Il sait sur quoi tu travailles
+- Il propose des changements qui correspondent à ta base de code
 
-**Direct editing:**
-- Cursor edits files directly
-- No copy/paste
-- No context switching
-- You stay in the flow
+**Édition directe :**
+- Cursor édite les fichiers directement
+- Pas de copier/coller
+- Pas de changement de contexte
+- Tu restes dans le flux
 
-**Project understanding:**
-- Cursor knows your dependencies
-- It understands your file structure
-- It suggests improvements based on your code
-- It's like having a senior developer who knows your entire project
+**Compréhension du projet :**
+- Cursor connaît tes dépendances
+- Il comprend ta structure de fichiers
+- Il suggère des améliorations basées sur ton code
+- C'est comme avoir un développeur senior qui connaît tout ton projet
 
-### Editing Files with Context
+### Éditer des Fichiers avec Contexte
 
-**Example:**
+**Exemple :**
 
-You're building a note-taking app. You ask Cursor:
+Tu construis une application de prise de notes. Tu demandes à Cursor :
 
-"I want users to be able to edit their notes."
+« Je veux que les utilisateurs puissent modifier leurs notes. »
 
-**Cursor:**
-- Looks at your existing code
-- Sees how you're saving notes
-- Understands your data structure
-- Adds an edit function that matches your style
-- Updates the UI to include edit buttons
-- Does it all in context
+**Cursor :**
+- Regarde ton code existant
+- Voit comment tu sauvegardes les notes
+- Comprend ta structure de données
+- Ajoute une fonction d'édition qui correspond à ton style
+- Met à jour l'interface pour inclure des boutons d'édition
+- Fait tout ça en contexte
 
-**You don't explain your entire project. Cursor already knows it.**
+**Tu n'expliques pas ton projet entier. Cursor le connaît déjà.**
 
-### The Mental Model
+### Le Modèle Mental
 
-Think of Cursor like this:
+Pense à Cursor comme ça :
 
 ```
-You (the thinker)     Cursor (the builder)
-─────────────────    ────────────────────
-"I want X"      →    "Here's the code for X"
-"Change Y"      →    "Updated Y in 3 files"
-"Fix Z"         →    "Fixed Z, here's what changed"
+Toi (le penseur)          Cursor (le constructeur)
+────────────────         ────────────────────────
+« Je veux X »       →    « Voici le code pour X »
+« Change Y »        →    « Y mis à jour dans 3 fichiers »
+« Corrige Z »       →    « Z corrigé, voici ce qui a changé »
 ```
 
-**You describe behavior. Cursor writes code.**
+**Tu décris le comportement. Cursor écrit le code.**
 
 ---
 
-## Lesson 3.2 — How to Talk to AI Like a Builder
+## Leçon 3.2 — Comment Parler à l'IA comme un Développeur
 
-### Bad Prompts vs. Good Prompts
+### Mauvaises Invites vs. Bonnes Invites
 
-**Bad prompt:**
-"Write code for authentication"
+**Mauvaise invite :**
+« Écris du code pour l'authentification »
 
-**Why it's bad:**
-- Too vague
-- No context
-- Cursor doesn't know what you want
-- You'll get generic code that doesn't fit
+**Pourquoi c'est mauvais :**
+- Trop vague
+- Pas de contexte
+- Cursor ne sait pas ce que tu veux
+- Tu auras du code générique qui ne correspond pas
 
-**Good prompt:**
-"I want users to be able to sign up and log in. They should be able to reset their password if they forget it. Use Firebase authentication."
+**Bonne invite :**
+« Je veux que les utilisateurs puissent s'inscrire et se connecter. Ils doivent pouvoir réinitialiser leur mot de passe s'ils l'oublient. Utilise l'authentification Firebase. »
 
-**Why it's good:**
-- Specific behavior
-- Clear requirements
-- Mentions your stack
-- Cursor knows exactly what to build
+**Pourquoi c'est bon :**
+- Comportement spécifique
+- Exigences claires
+- Mentionne ta stack
+- Cursor sait exactement quoi construire
 
-### Describing Behavior, Not Code
+### Décrire le Comportement, Pas le Code
 
-**Don't say:**
-- "Write a function that..."
-- "Create a component that..."
-- "Add a database query..."
+**Ne dis pas :**
+- « Écris une fonction qui... »
+- « Crée un composant qui... »
+- « Ajoute une requête de base de données... »
 
-**Say:**
-- "I want users to be able to..."
-- "When a user clicks X, Y should happen..."
-- "Users should see Z when..."
+**Dis :**
+- « Je veux que les utilisateurs puissent... »
+- « Quand un utilisateur clique sur X, Y devrait se passer... »
+- « Les utilisateurs devraient voir Z quand... »
 
-**Describe what should happen, not how to code it.**
+**Décris ce qui doit se passer, pas comment le coder.**
 
-### Example Prompts That Work
+### Exemples d'Invites qui Fonctionnent
 
-**Building a note app:**
+**Pour construire une application de notes :**
 
-✅ "I want users to be able to create notes. Each note should have a title and content. Notes should be saved to Firebase Firestore."
+✅ « Je veux que les utilisateurs puissent créer des notes. Chaque note doit avoir un titre et un contenu. Les notes doivent être sauvegardées dans Firebase Firestore. »
 
-✅ "When a user clicks 'New Note', show them a form where they can enter a title and content. When they submit, save it to Firebase Firestore and show it in their list of notes."
+✅ « Quand un utilisateur clique sur 'Nouvelle Note', montre-lui un formulaire où il peut entrer un titre et un contenu. Quand il soumet, sauvegarde dans Firebase Firestore et affiche dans sa liste de notes. »
 
-✅ "I want users to be able to delete notes. Add a delete button to each note. When clicked, remove it from Firebase Firestore and update the list."
+✅ « Je veux que les utilisateurs puissent supprimer des notes. Ajoute un bouton de suppression à chaque note. Quand cliqué, retire de Firebase Firestore et met à jour la liste. »
 
-✅ "I want users to be able to edit their existing notes. Add an edit button that lets them change the title and content, then save the changes to Firebase."
+✅ « Je veux que les utilisateurs puissent modifier leurs notes existantes. Ajoute un bouton d'édition qui leur permet de changer le titre et le contenu, puis sauvegarder les changements dans Firebase. »
 
-**Notice:** All of these describe behavior, not code.
+**Remarque :** Toutes ces invites décrivent le comportement, pas le code.
 
-### More Real-World Examples
+### Plus d'Exemples du Monde Réel
 
-**For a habit tracker:**
+**Pour un tracker d'habitudes :**
 
-✅ "I want users to be able to create a daily habit list. Each habit should have a name and a checkbox. When they check it off, save that they completed it today in Firebase."
+✅ « Je veux que les utilisateurs puissent créer une liste d'habitudes quotidiennes. Chaque habitude doit avoir un nom et une case à cocher. Quand ils la cochent, sauvegarde qu'ils l'ont complétée aujourd'hui dans Firebase. »
 
-✅ "Show users a list of their habits. Display how many days in a row they've completed each habit. Get this data from Firebase Firestore."
+✅ « Montre aux utilisateurs une liste de leurs habitudes. Affiche combien de jours d'affilée ils ont complété chaque habitude. Récupère ces données depuis Firebase Firestore. »
 
-**For a resource bookmarker:**
+**Pour un bookmarker de ressources :**
 
-✅ "I want users to be able to save links. They enter a URL and a title. Save it to Firebase. Show all their saved links in a list."
+✅ « Je veux que les utilisateurs puissent sauvegarder des liens. Ils entrent une URL et un titre. Sauvegarde dans Firebase. Affiche tous leurs liens sauvegardés dans une liste. »
 
-✅ "When a user clicks a saved link, open it in a new tab. Also track how many times each link has been clicked and show that number."
+✅ « Quand un utilisateur clique sur un lien sauvegardé, ouvre-le dans un nouvel onglet. Suis aussi combien de fois chaque lien a été cliqué et affiche ce nombre. »
 
-**The pattern:** Describe what should happen, mention Firebase/Firestore, and be specific about the user experience.
+**Le modèle :** Décris ce qui doit se passer, mentionne Firebase/Firestore, et sois précis sur l'expérience utilisateur.
 
-### Iterative Building
+### Construction Itérative
 
-**You don't build everything at once. You build iteratively.**
+**Tu ne construis pas tout en même temps. Tu construis de manière itérative.**
 
-**Step 1:** "I want a simple app where users can log in."
+**Étape 1 :** « Je veux une application simple où les utilisateurs peuvent se connecter. »
 
-**Step 2:** "Now I want users to be able to save notes after they log in."
+**Étape 2 :** « Maintenant je veux que les utilisateurs puissent sauvegarder des notes après s'être connectés. »
 
-**Step 3:** "Now I want users to be able to edit their notes."
+**Étape 3 :** « Maintenant je veux que les utilisateurs puissent modifier leurs notes. »
 
-**Step 4:** "Now I want users to be able to delete notes."
+**Étape 4 :** « Maintenant je veux que les utilisateurs puissent supprimer des notes. »
 
-**Each step builds on the last. You're not trying to build everything at once.**
+**Chaque étape s'appuie sur la précédente. Tu n'essaies pas de tout construire en même temps.**
 
-### The Prompt Formula
+### La Formule d'Invite
 
-**Good prompts follow this formula:**
+**Les bonnes invites suivent cette formule :**
 
-1. **Who:** "Users" or "I want"
-2. **What:** The action or behavior
-3. **How:** The stack or method (optional, but helpful)
-4. **Context:** What it should work with (optional)
+1. **Qui :** « Les utilisateurs » ou « Je veux »
+2. **Quoi :** L'action ou le comportement
+3. **Comment :** La stack ou la méthode (optionnel, mais utile)
+4. **Contexte :** Ce avec quoi ça doit fonctionner (optionnel)
 
-**Example:**
-"I want users to be able to save notes to Firebase after they log in."
+**Exemple :**
+« Je veux que les utilisateurs puissent sauvegarder des notes dans Firebase après s'être connectés. »
 
-- Who: Users
-- What: Save notes
-- How: Firebase
-- Context: After they log in
+- Qui : Les utilisateurs
+- Quoi : Sauvegarder des notes
+- Comment : Firebase
+- Contexte : Après s'être connectés
 
-**That's a perfect prompt.**
+**C'est une invite parfaite.**
 
-### Common Mistakes to Avoid
+### Erreurs Courantes à Éviter
 
-**Mistake 1: Being too vague**
-❌ "Make it better"
-✅ "I want the login form to show an error message if the password is wrong"
+**Erreur 1 : Être trop vague**
+❌ « Améliore ça »
+✅ « Je veux que le formulaire de connexion affiche un message d'erreur si le mot de passe est incorrect »
 
-**Mistake 2: Asking for everything at once**
-❌ "Build a complete note-taking app with authentication, CRUD operations, and a beautiful UI"
-✅ "I want users to be able to log in" (then build from there)
+**Erreur 2 : Demander tout en même temps**
+❌ « Construis une application de prise de notes complète avec authentification, opérations CRUD et une belle interface »
+✅ « Je veux que les utilisateurs puissent se connecter » (puis construire à partir de là)
 
-**Mistake 3: Not providing context**
-❌ "Add a button"
-✅ "Add a delete button to each note that removes it from Firebase when clicked"
+**Erreur 3 : Ne pas fournir de contexte**
+❌ « Ajoute un bouton »
+✅ « Ajoute un bouton de suppression à chaque note qui la retire de Firebase quand cliqué »
 
-**Mistake 4: Asking for code, not behavior**
-❌ "Write a function that queries the database"
-✅ "I want to show all of the user's notes when they log in"
-
----
-
-## 🎯 Action Step
-
-**Practice writing prompts:**
-
-Think about your project idea from Section 0. Write 3 prompts that describe what you want to build:
-
-1. One prompt for the core feature
-2. One prompt for a secondary feature
-3. One prompt for improving the user experience
-
-**Example (for a note app):**
-1. "I want users to be able to create and save notes to Firebase"
-2. "I want users to be able to see all their notes in a list"
-3. "I want the note list to update automatically when a new note is created"
-
-**These are the prompts you'll use when you start building in Section 4.**
+**Erreur 4 : Demander du code, pas du comportement**
+❌ « Écris une fonction qui interroge la base de données »
+✅ « Je veux afficher toutes les notes de l'utilisateur quand il se connecte »
 
 ---
 
-## 🎯 Setting Up Cursor
+## 🎯 Exercice Pratique
 
-### Install the Desktop App (Not the Browser Version!)
+**Entraîne-toi à écrire des invites :**
 
-**Important:** Install Cursor on your computer. **Do NOT use the browser version.** The browser version is horrible and doesn't work well for vibe coding.
+Pense à ton idée de projet de la Section 0. Écris 3 invites qui décrivent ce que tu veux construire :
 
-**Here's how to install Cursor properly:**
+1. Une invite pour la fonctionnalité principale
+2. Une invite pour une fonctionnalité secondaire
+3. Une invite pour améliorer l'expérience utilisateur
 
-#### Step 1: Download Cursor
+**Exemple (pour une application de notes) :**
+1. « Je veux que les utilisateurs puissent créer et sauvegarder des notes dans Firebase »
+2. « Je veux que les utilisateurs puissent voir toutes leurs notes dans une liste »
+3. « Je veux que la liste de notes se mette à jour automatiquement quand une nouvelle note est créée »
 
-1. **Go to [Cursor.sh](https://cursor.sh/)**
-2. **Click "Download"** (usually a big button on the homepage)
-3. **Choose your operating system:**
-   - **Windows:** Download the `.exe` file
-   - **Mac:** Download the `.dmg` file
-   - **Linux:** Download the appropriate package for your distribution
-
-**It's free to start.** You can use the free tier, and paid plans start at $20/month if you want more features later.
-
-#### Step 2: Install Cursor
-
-**For Windows:**
-1. Find the downloaded `.exe` file (usually in your Downloads folder)
-2. Double-click it to run the installer
-3. Follow the installation wizard (click "Next" through the prompts)
-4. Choose where to install it (default location is fine)
-5. Click "Install"
-6. Wait for installation to complete
-7. Click "Finish"
-
-**For Mac:**
-1. Find the downloaded `.dmg` file (usually in your Downloads folder)
-2. Double-click it to open
-3. Drag the Cursor icon to your Applications folder
-4. Open Applications and double-click Cursor to launch it
-5. If you get a security warning, go to System Preferences → Security & Privacy → Click "Open Anyway"
-
-**For Linux:**
-1. Extract or install the downloaded package based on your distribution
-2. Follow your distribution's standard installation process
-
-#### Step 3: Open Cursor
-
-1. **Launch Cursor** from your applications or start menu
-2. **Sign in or create an account** (if prompted)
-3. **You're ready to go!**
-
-### Why Not the Browser Version?
-
-**The browser version of Cursor:**
-- ❌ Doesn't have full access to your file system
-- ❌ Can't understand your entire codebase properly
-- ❌ Limited AI capabilities
-- ❌ Slower and less reliable
-- ❌ Missing key features you need for vibe coding
-
-**The desktop app:**
-- ✅ Full access to your files
-- ✅ Understands your entire project
-- ✅ Better AI assistance
-- ✅ Faster and more reliable
-- ✅ All the features you need
-
-**Bottom line:** Install the desktop app. Don't use the browser version. It's worth the 2 minutes to install.
-
-### How Cursor Works with Your Project
-
-**Cursor works best when you open a folder (your project):**
-
-1. **Open Cursor**
-2. **Click "File" → "Open Folder"** (or use the keyboard shortcut)
-3. **Select your project folder** (the one with your code)
-4. **Cursor now understands your entire project**
-
-**We'll do this in Section 4 when we start building.** For now, just make sure Cursor is installed on your computer.
-
-### First Time Setup
-
-**When you first open Cursor:**
-
-1. It might ask you to sign in or create an account
-2. It might show you a welcome screen or tutorial
-3. You can skip the tutorial if you want (we'll learn by building)
-4. You're ready to start building!
-
-**That's it. Cursor is installed and ready.**
+**Ce sont les invites que tu utiliseras quand tu commenceras à construire dans la Section 4.**
 
 ---
 
-## 🎯 Action Step
+## 🎯 Configurer Cursor
 
-**Install Cursor on your computer right now:**
+### Installe l'Application Bureau (Pas la Version Navigateur !)
 
-1. Go to [Cursor.sh](https://cursor.sh/)
-2. Download the desktop app (not browser version!)
-3. Install it
-4. Open it
-5. Make sure it's working
+**Important :** Installe Cursor sur ton ordinateur. **N'utilise PAS la version navigateur.** La version navigateur est horrible et ne fonctionne pas bien pour le vibe coding.
 
-**Don't wait. Don't use the browser version. Install the desktop app.**
+**Voici comment installer Cursor correctement :**
 
-**Next:** [SECTION 4 — Your First Real Build (Tiny but Real)](./05-first-build.md)
+#### Étape 1 : Télécharger Cursor
+
+1. **Va sur [Cursor.sh](https://cursor.sh/)**
+2. **Clique sur « Download »** (généralement un grand bouton sur la page d'accueil)
+3. **Choisis ton système d'exploitation :**
+   - **Windows :** Télécharge le fichier `.exe`
+   - **Mac :** Télécharge le fichier `.dmg`
+   - **Linux :** Télécharge le package approprié pour ta distribution
+
+**C'est gratuit pour commencer.** Tu peux utiliser le forfait gratuit, et les plans payants commencent à 20 €/mois si tu veux plus de fonctionnalités plus tard.
+
+#### Étape 2 : Installer Cursor
+
+**Pour Windows :**
+1. Trouve le fichier `.exe` téléchargé (généralement dans ton dossier Téléchargements)
+2. Double-clique pour lancer l'installateur
+3. Suis l'assistant d'installation (clique sur « Suivant » à travers les invites)
+4. Choisis où l'installer (l'emplacement par défaut est bien)
+5. Clique sur « Installer »
+6. Attends que l'installation se termine
+7. Clique sur « Terminer »
+
+**Pour Mac :**
+1. Trouve le fichier `.dmg` téléchargé (généralement dans ton dossier Téléchargements)
+2. Double-clique pour ouvrir
+3. Fais glisser l'icône Cursor vers ton dossier Applications
+4. Ouvre Applications et double-clique sur Cursor pour le lancer
+5. Si tu obtiens un avertissement de sécurité, va dans Préférences Système → Sécurité et confidentialité → Clique sur « Ouvrir quand même »
+
+**Pour Linux :**
+1. Extrais ou installe le package téléchargé selon ta distribution
+2. Suis le processus d'installation standard de ta distribution
+
+#### Étape 3 : Ouvrir Cursor
+
+1. **Lance Cursor** depuis tes applications ou le menu démarrer
+2. **Connecte-toi ou crée un compte** (si on te le demande)
+3. **Tu es prêt à aller !**
+
+### Pourquoi Pas la Version Navigateur ?
+
+**La version navigateur de Cursor :**
+- ❌ N'a pas un accès complet à ton système de fichiers
+- ❌ Ne peut pas comprendre correctement toute ta base de code
+- ❌ Capacités IA limitées
+- ❌ Plus lente et moins fiable
+- ❌ Fonctionnalités clés manquantes dont tu as besoin pour le vibe coding
+
+**L'application bureau :**
+- ✅ Accès complet à tes fichiers
+- ✅ Comprend tout ton projet
+- ✅ Meilleure assistance IA
+- ✅ Plus rapide et plus fiable
+- ✅ Toutes les fonctionnalités dont tu as besoin
+
+**En résumé :** Installe l'application bureau. N'utilise pas la version navigateur. Ça vaut les 2 minutes d'installation.
+
+### Comment Cursor Fonctionne avec ton Projet
+
+**Cursor fonctionne mieux quand tu ouvres un dossier (ton projet) :**
+
+1. **Ouvre Cursor**
+2. **Clique sur « Fichier » → « Ouvrir un Dossier »** (ou utilise le raccourci clavier)
+3. **Sélectionne le dossier de ton projet** (celui avec ton code)
+4. **Cursor comprend maintenant tout ton projet**
+
+**On fera ça dans la Section 4 quand on commencera à construire.** Pour l'instant, assure-toi juste que Cursor est installé sur ton ordinateur.
+
+### Configuration Initiale
+
+**Quand tu ouvres Cursor pour la première fois :**
+
+1. Il pourrait te demander de te connecter ou de créer un compte
+2. Il pourrait te montrer un écran de bienvenue ou un tutoriel
+3. Tu peux passer le tutoriel si tu veux (on va apprendre en construisant)
+4. Tu es prêt à commencer à construire !
+
+**C'est tout. Cursor est installé et prêt.**
 
 ---
 
-**Next:** [SECTION 4 — Your First Real Build (Tiny but Real)](./05-first-build.md)
+## 🎯 Exercice Pratique
+
+**Installe Cursor sur ton ordinateur maintenant :**
+
+1. Va sur [Cursor.sh](https://cursor.sh/)
+2. Télécharge l'application bureau (pas la version navigateur !)
+3. Installe-la
+4. Ouvre-la
+5. Assure-toi qu'elle fonctionne
+
+**N'attends pas. N'utilise pas la version navigateur. Installe l'application bureau.**
+
+**Suivant :** [SECTION 4 — Ta Première Vraie Construction (Petite mais Réelle)](./05-first-build.md)
+
+---
+
+**Suivant :** [SECTION 4 — Ta Première Vraie Construction (Petite mais Réelle)](./05-first-build.md)
 
