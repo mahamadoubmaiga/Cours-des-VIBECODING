@@ -1,155 +1,155 @@
-# ⚡ Vibe Coding Quick Reference
+# ⚡ Référence Rapide Vibe Coding
 
-A cheat sheet for when you need to remember something fast.
-
----
-
-## 🎯 The Core Philosophy
-
-**If you can explain what you want, you can build it.**
-
-Describe behavior, not code. Let the tools handle the syntax.
+Un aide-mémoire pour quand tu as besoin de te rappeler quelque chose rapidement.
 
 ---
 
-## 🛠️ The Stack
+## 🎯 La Philosophie Principale
 
-1. **Firebase Studio** — Backend, auth, database, hosting
-2. **GitHub** — Source of truth, version control
-3. **Cursor** — AI-powered code editor
+**Si tu peux expliquer ce que tu veux, tu peux le construire.**
 
-**All free to start.**
+Décris le comportement, pas le code. Laisse les outils gérer la syntaxe.
 
 ---
 
-## 🔄 The Workflow
+## 🛠️ La Stack
 
-1. **Build project bones in Firebase Studio** — Use prompts to create basic structure
-2. **Publish from Firebase Studio** — Creates project in Firebase Console
-3. **Enable services in Firebase Console** — Enable Auth, Firestore, Hosting
-4. **Sync to GitHub** — Firebase Studio creates your GitHub repo automatically
-5. **Clone to Cursor** — Build fast with AI (services already configured)
-6. **Sync back and deploy** — Deploy from Firebase Studio
+1. **Firebase Studio** — Backend, auth, base de données, hébergement
+2. **GitHub** — Source de vérité, contrôle de version
+3. **Cursor** — Éditeur de code propulsé par l'IA
 
-**Build bones → Publish → Enable services → Sync to GitHub → Build in Cursor → Deploy. Repeat.**
-
-**Note:** Build project bones first, publish to enable services, then sync to GitHub. Keep repos private. Don't commit secret keys.
+**Tout gratuit pour commencer.**
 
 ---
 
-## 💬 How to Talk to Cursor
+## 🔄 Le Workflow
 
-### Good Prompts ✅
+1. **Construire les ossatures du projet dans Firebase Studio** — Utilise des invites pour créer la structure de base
+2. **Publier depuis Firebase Studio** — Crée le projet dans Firebase Console
+3. **Activer les services dans Firebase Console** — Active Auth, Firestore, Hébergement
+4. **Synchroniser avec GitHub** — Firebase Studio crée ton dépôt GitHub automatiquement
+5. **Cloner dans Cursor** — Construire vite avec l'IA (services déjà configurés)
+6. **Synchroniser de nouveau et déployer** — Déployer depuis Firebase Studio
 
-- "I want users to be able to log in and save notes"
-- "When a user clicks delete, remove the note from Firebase"
-- "Show all of the user's notes when they log in"
+**Construire les ossatures → Publier → Activer les services → Synchroniser avec GitHub → Construire dans Cursor → Déployer. Répéter.**
 
-### Bad Prompts ❌
-
-- "Write code for authentication"
-- "Create a function that..."
-- "Make it better"
-
-**Describe behavior, not code.**
+**Note :** Construire les ossatures du projet d'abord, publier pour activer les services, puis synchroniser avec GitHub. Garde les dépôts privés. Ne commit pas de clés secrètes.
 
 ---
 
-## 🎨 Picking Your First Idea
+## 💬 Comment Parler à Cursor
 
-**The rule:** If it takes more than 1 sentence to explain, it's too big.
+### Bonnes Invites ✅
 
-**Examples:**
-- Note saver
-- Daily checklist
-- Idea tracker
-- Resource bookmarker
+- « Je veux que les utilisateurs puissent se connecter et sauvegarder des notes »
+- « Quand un utilisateur clique sur supprimer, retire la note de Firebase »
+- « Affiche toutes les notes de l'utilisateur quand il se connecte »
 
-**Start stupid simple. Make it work. Then make it better.**
+### Mauvaises Invites ❌
 
----
+- « Écris du code pour l'authentification »
+- « Crée une fonction qui... »
+- « Améliore ça »
 
-## 🚀 Shipping Checklist
-
-- [ ] Core features work
-- [ ] Users can accomplish the main goal
-- [ ] Deployed to Firebase Hosting
-- [ ] Live URL works
-- [ ] Share it
-
-**Shipping ≠ Perfect. Shipping = Usable.**
+**Décris le comportement, pas le code.**
 
 ---
 
-## 🔧 Quick Fixes
+## 🎨 Choisir ta Première Idée
 
-| Problem | Solution |
+**La règle :** Si ça prend plus d'1 phrase à expliquer, c'est trop grand.
+
+**Exemples :**
+- Sauvegarde de notes
+- Liste quotidienne
+- Tracker d'idées
+- Bookmarker de ressources
+
+**Commence stupidement simple. Fais que ça marche. Puis améliore-le.**
+
+---
+
+## 🚀 Liste de Vérification pour la Publication
+
+- [ ] Les fonctionnalités principales fonctionnent
+- [ ] Les utilisateurs peuvent accomplir l'objectif principal
+- [ ] Déployé sur Firebase Hosting
+- [ ] L'URL en ligne fonctionne
+- [ ] Partage-la
+
+**Publier ≠ Parfait. Publier = Utilisable.**
+
+---
+
+## 🔧 Corrections Rapides
+
+| Problème | Solution |
 |---------|----------|
-| Firebase not defined | Check SDK is loaded |
-| Permission denied | Update Firestore rules |
-| Auth not working | Enable Email/Password in Firebase Console |
-| Build errors | Test locally first |
-| Cursor code doesn't work | Be more specific in prompt |
+| Firebase non défini | Vérifie que le SDK est chargé |
+| Permission refusée | Mets à jour les règles Firestore |
+| Auth ne fonctionne pas | Active Email/Mot de passe dans Firebase Console |
+| Erreurs de build | Teste localement d'abord |
+| Le code Cursor ne fonctionne pas | Sois plus spécifique dans l'invite |
 
 ---
 
-## 💰 Monetization Ideas
+## 💰 Idées de Monétisation
 
-- SaaS (subscription)
-- Micro tools (small, focused)
-- Paid communities
+- SaaS (abonnement)
+- Micro outils (petits, ciblés)
+- Communautés payantes
 - APIs
-- Internal business tools
+- Outils d'entreprise internes
 
-**Solve a real problem. Charge for it.**
-
----
-
-## 📝 The 30-Day Goal
-
-**Idea → Deployed App → First Customers in ~30 days**
-
-- Week 1: Build core feature
-- Week 2: Test and improve
-- Week 3: Add monetization
-- Week 4: Launch and get customers
-
-**Speed beats perfection.**
+**Résous un vrai problème. Fais-le payer.**
 
 ---
 
-## 🎯 When You're Stuck
+## 📝 L'Objectif des 30 Jours
 
-1. Read the error message
-2. Check the browser console
-3. Ask Cursor to debug it
-4. Simplify until it works
-5. Ask the [community](https://www.skool.com/vibe-coding-with-chris-7196)
+**Idée → Application Déployée → Premiers Clients en ~30 jours**
 
-**Most bugs are simple. You just need to find them.**
+- Semaine 1 : Construire la fonctionnalité principale
+- Semaine 2 : Tester et améliorer
+- Semaine 3 : Ajouter la monétisation
+- Semaine 4 : Lancer et obtenir des clients
+
+**La vitesse bat la perfection.**
 
 ---
 
-## 🔗 Essential Links
+## 🎯 Quand Tu es Bloqué
+
+1. Lis le message d'erreur
+2. Vérifie la console du navigateur
+3. Demande à Cursor de déboguer
+4. Simplifie jusqu'à ce que ça fonctionne
+5. Demande à la [communauté](https://www.skool.com/vibe-coding-with-chris-7196)
+
+**La plupart des bugs sont simples. Tu as juste besoin de les trouver.**
+
+---
+
+## 🔗 Liens Essentiels
 
 - [Firebase Studio](https://studio.firebase.google.com/)
 - [GitHub](https://github.com)
 - [Cursor](https://cursor.sh)
-- [Vibe Coding with Chris Skool](https://www.skool.com/vibe-coding-with-chris-7196)
+- [Vibe Coding avec Chris Skool](https://www.skool.com/vibe-coding-with-chris-7196)
 
 ---
 
-## 💡 Remember
+## 💡 Rappels
 
-- Your first version is supposed to be bad
-- Shipping beats perfect
-- Speed matters more than perfection
-- Real feedback > assumptions
-- Build daily, not perfectly
+- Ta première version est censée être mauvaise
+- Publié bat parfait
+- La vitesse compte plus que la perfection
+- Vrais retours > Hypothèses
+- Construis au quotidien, pas parfaitement
 
-**Vibe coding is about momentum, not perfection.**
+**Le vibe coding concerne l'élan, pas la perfection.**
 
 ---
 
-*For daily lessons and real builds, join the [Vibe Coding with Chris Skool community](https://www.skool.com/vibe-coding-with-chris-7196).*
+*Pour des leçons quotidiennes et de vraies constructions, rejoins la [communauté Skool Vibe Coding avec Chris](https://www.skool.com/vibe-coding-with-chris-7196).*
 

@@ -1,251 +1,251 @@
-# 🎯 FINAL SECTION — What's Next
+# 🎯 SECTION FINALE — Et Après ?
 
-You've made it through the course. You understand the mindset, the tools, the workflow, and how to turn this into money.
+Tu as terminé le cours. Tu comprends le mindset, les outils, le workflow et comment transformer ça en argent.
 
-But this is just the beginning. Real progress happens with daily reps, not one-time courses.
+Mais ce n'est que le début. Le vrai progrès vient avec des entraînements quotidiens, pas des cours ponctuels.
 
-This section shows you what's next and how to keep building.
-
----
-
-## Lesson 7.1 — Why This GitHub Course Is Only the Beginning
-
-### This Course = Foundation
-
-**What you've learned:**
-- The vibe coding mindset
-- The tools (Firebase Studio, GitHub, Cursor)
-- The workflow (build, commit, deploy)
-- How to ship your first app
-- How to think about monetization
-
-**That's the foundation. That's enough to start.**
-
-### Real Progress = Daily Reps
-
-**But here's the reality:**
-
-- **One course** = Knowledge
-- **Daily practice** = Skill
-- **Daily building** = Real progress
-
-**You don't get good at vibe coding by reading about it. You get good by doing it every day.**
-
-### Feedback Loops
-
-**The real learning happens when:**
-- You build something
-- You ship it
-- You get feedback
-- You improve it
-- You ship again
-
-**That's the feedback loop. That's how you actually learn.**
-
-**This course gives you the foundation. Daily practice gives you the skill.**
-
-### Shipping Publicly
-
-**There's a difference between:**
-- Building in private (learning slowly)
-- Shipping publicly (learning fast)
-
-**When you ship publicly:**
-- You get real feedback
-- You see what works
-- You learn what doesn't
-- You improve faster
-
-**This course teaches you how to ship. Daily practice teaches you how to ship well.**
-
-### The Gap
-
-**There's a gap between:**
-- Knowing how to build (this course)
-- Actually building consistently (daily practice)
-
-**Most people fall into the gap:**
-- They take the course
-- They understand the concepts
-- They never build consistently
-- They never get good
-
-**Don't fall into the gap. Keep building.**
+Cette section te montre la suite et comment continuer à construire.
 
 ---
 
-## Lesson 7.2 — Join the Vibe Coding Community
+## Leçon 7.1 — Pourquoi Ce Cours GitHub n'est que le Début
 
-### Why Join the Community?
+### Ce Cours = Fondations
 
-**If you want:**
-- ✅ Daily lessons and build walkthroughs
-- ✅ Real projects broken down step-by-step
-- ✅ Feedback on your builds
-- ✅ Shipping accountability
-- ✅ How to turn simple apps into things people pay for
+**Ce que tu as appris :**
+- Le mindset du vibe coding
+- Les outils (Firebase Studio, GitHub, Cursor)
+- Le workflow (construire, committer, déployer)
+- Comment publier ta première application
+- Comment réfléchir à la monétisation
 
-**Then the [Vibe Coding with Chris Skool community](https://www.skool.com/vibe-coding-with-chris-7196) is for you.**
+**C'est la fondation. C'est suffisant pour commencer.**
 
-### What You Get Inside
+### Vrai Progrès = Entraînements Quotidiens
 
-#### Daily Lessons
-- Real build walkthroughs
-- Step-by-step tutorials
-- How to use Firebase, GitHub, and Cursor
-- How to think through problems
+**Mais voici la réalité :**
 
-#### Real Projects
-- See how ideas become apps
-- Learn from actual builds
-- Understand the decision-making process
-- See what works and what doesn't
+- **Un cours** = Connaissances
+- **Pratique quotidienne** = Compétence
+- **Construction quotidienne** = Vrai progrès
 
-#### Feedback
-- Get feedback on your builds
-- Ask questions
-- Get unstuck
-- Learn from others
+**Tu ne deviens pas bon au vibe coding en lisant à son sujet. Tu deviens bon en le faisant chaque jour.**
 
-#### Shipping Accountability
-- Share what you're building
-- Get support when you're stuck
-- Celebrate when you ship
-- Keep the momentum going
+### Boucles de Rétroaction
 
-#### Monetization
-- How to turn simple apps into money
-- Real examples of vibe coders making money
-- Strategies that work
-- How to price your products
+**Le vrai apprentissage se produit quand :**
+- Tu construis quelque chose
+- Tu le publies
+- Tu obtiens des retours
+- Tu l'améliores
+- Tu publies à nouveau
 
-### The Community Difference
+**C'est la boucle de rétroaction. C'est ainsi qu'on apprend vraiment.**
 
-**This course = Foundation**
-- You learn the concepts
-- You understand the workflow
-- You build your first app
+**Ce cours te donne les fondations. La pratique quotidienne te donne la compétence.**
 
-**The community = Real progress**
-- You build daily
-- You get feedback
-- You ship consistently
-- You make money
+### Publication Publique
 
-**The course gets you started. The community keeps you building.**
+**Il y a une différence entre :**
+- Construire en privé (apprendre lentement)
+- Publier publiquement (apprendre vite)
 
-### Who This Is For
+**Quand tu publies publiquement :**
+- Tu obtiens de vrais retours
+- Tu vois ce qui fonctionne
+- Tu apprends ce qui ne fonctionne pas
+- Tu t'améliores plus vite
 
-**This community is for:**
-- People who want to build real software
-- People who want to ship, not just learn
-- People who want to make money from what they build
-- People who are tired of tutorial hell
+**Ce cours t'apprend à publier. La pratique quotidienne t'apprend à bien publier.**
 
-**This community is NOT for:**
-- People who want to learn theory without building
-- People who want to be "real developers" before shipping
-- People who want perfect code on day one
-- People who want to learn everything before building anything
+### Le Fossé
 
-**If you're ready to build, ship, and sell what you create — you're in the right place.**
+**Il y a un fossé entre :**
+- Savoir comment construire (ce cours)
+- Construire vraiment de façon constante (pratique quotidienne)
 
-### How to Join
+**La plupart des gens tombent dans le fossé :**
+- Ils suivent le cours
+- Ils comprennent les concepts
+- Ils ne construisent jamais de façon constante
+- Ils ne s'améliorent jamais
 
-**Join the [Vibe Coding with Chris Skool community](https://www.skool.com/vibe-coding-with-chris-7196):**
-
-1. Click the link
-2. Sign up for $15/month
-3. Start building
-4. Keep shipping
-
-**That's it. No gatekeeping. No prerequisites. Just building.**
+**Ne tombe pas dans le fossé. Continue à construire.**
 
 ---
 
-## 🎯 What to Do Next
+## Leçon 7.2 — Rejoins la Communauté Vibe Coding
 
-### Immediate Next Steps
+### Pourquoi Rejoindre la Communauté ?
 
-1. **Finish building your first app** (if you haven't already)
-   - Complete Section 4
-   - Ship it in Section 5
-   - Get it live
+**Si tu veux :**
+- ✅ Des leçons quotidiennes et des walkthroughs de construction
+- ✅ De vrais projets décomposés étape par étape
+- ✅ Des retours sur tes constructions
+- ✅ Une responsabilisation sur la publication
+- ✅ Comment transformer des applications simples en choses pour lesquelles les gens paient
 
-2. **Join the community**
-   - [Join Vibe Coding with Chris](https://www.skool.com/vibe-coding-with-chris-7196)
-   - Introduce yourself
-   - Share what you're building
+**Alors la [communauté Skool Vibe Coding avec Chris](https://www.skool.com/vibe-coding-with-chris-7196) est faite pour toi.**
 
-3. **Keep building**
-   - Build something new
-   - Ship it
-   - Get feedback
-   - Improve it
-   - Repeat
+### Ce que Tu Obtiens à l'Intérieur
 
-### The 30-Day Challenge
+#### Leçons Quotidiennes
+- Vrais walkthroughs de construction
+- Tutoriels étape par étape
+- Comment utiliser Firebase, GitHub et Cursor
+- Comment réfléchir aux problèmes
 
-**Challenge yourself:**
-- Build one app per week for 4 weeks
-- Ship each one
-- Get feedback on each one
-- Improve based on feedback
+#### Vrais Projets
+- Vois comment les idées deviennent des applications
+- Apprends à partir de vraies constructions
+- Comprends le processus de prise de décision
+- Vois ce qui fonctionne et ce qui ne fonctionne pas
 
-**By the end of 30 days, you'll have:**
-- 4 shipped apps
-- Real feedback on each
-- A clear understanding of what works
-- Momentum to keep building
+#### Retours
+- Obtiens des retours sur tes constructions
+- Pose des questions
+- Débloque-toi
+- Apprends des autres
 
-**That's how you get good at vibe coding. Not by reading. By building.**
+#### Responsabilisation sur la Publication
+- Partage ce que tu construis
+- Obtiens du soutien quand tu es bloqué
+- Célèbre quand tu publies
+- Maintiens l'élan
 
-### The Long-Term Goal
+#### Monétisation
+- Comment transformer des applications simples en argent
+- De vrais exemples de vibe coders qui gagnent de l'argent
+- Des stratégies qui fonctionnent
+- Comment fixer le prix de tes produits
 
-**Remember the goal:**
+### La Différence Communauté
 
-**Go from idea → deployed app → first customers in ~30 days.**
+**Ce cours = Fondations**
+- Tu apprends les concepts
+- Tu comprends le workflow
+- Tu construis ta première application
 
-**This course gives you the foundation. The community gives you the support. You give yourself the commitment.**
+**La communauté = Vrai progrès**
+- Tu construis au quotidien
+- Tu obtiens des retours
+- Tu publies de façon constante
+- Tu gagnes de l'argent
 
-**If you're ready to build, ship, and sell what you create — let's do this.**
+**Le cours te lance. La communauté te garde en mouvement.**
+
+### Pour Qui C'est
+
+**Cette communauté est pour :**
+- Les gens qui veulent construire de vrais logiciels
+- Les gens qui veulent publier, pas juste apprendre
+- Les gens qui veulent gagner de l'argent avec ce qu'ils construisent
+- Les gens qui en ont marre de l'enfer des tutoriels
+
+**Cette communauté N'EST PAS pour :**
+- Les gens qui veulent apprendre la théorie sans construire
+- Les gens qui veulent être de « vrais développeurs » avant de publier
+- Les gens qui veulent du code parfait dès le premier jour
+- Les gens qui veulent tout apprendre avant de construire quoi que ce soit
+
+**Si tu es prêt à construire, publier et vendre ce que tu crées — tu es au bon endroit.**
+
+### Comment Rejoindre
+
+**Rejoins la [communauté Skool Vibe Coding avec Chris](https://www.skool.com/vibe-coding-with-chris-7196) :**
+
+1. Clique sur le lien
+2. Inscris-toi pour 15 €/mois
+3. Commence à construire
+4. Continue à publier
+
+**C'est tout. Pas de garde-fous. Pas de prérequis. Juste construire.**
 
 ---
 
-## 🎉 Congratulations
+## 🎯 Que Faire Ensuite
 
-**You've completed the Vibe Coding for Dummies course.**
+### Prochaines Étapes Immédiates
 
-**You now know:**
-- What vibe coding is
-- How to use the tools
-- How to build and ship
-- How to think about money
+1. **Termine de construire ta première application** (si tu ne l'as pas encore fait)
+   - Complète la Section 4
+   - Publie-la dans la Section 5
+   - Mets-la en ligne
 
-**But this is just the beginning.**
+2. **Rejoins la communauté**
+   - [Rejoins Vibe Coding avec Chris](https://www.skool.com/vibe-coding-with-chris-7196)
+   - Présente-toi
+   - Partage ce que tu construis
 
-**Real progress happens with daily reps. Real learning happens when you ship.**
+3. **Continue à construire**
+   - Construis quelque chose de nouveau
+   - Publie-le
+   - Obtiens des retours
+   - Améliore-le
+   - Répète
 
-**Keep building. Keep shipping. Keep improving.**
+### Le Défi des 30 Jours
 
-**See you in the community. 👊**
+**Défie-toi :**
+- Construis une application par semaine pendant 4 semaines
+- Publie chacune
+- Obtiens des retours sur chacune
+- Améliore basé sur les retours
+
+**À la fin des 30 jours, tu auras :**
+- 4 applications publiées
+- De vrais retours sur chacune
+- Une compréhension claire de ce qui fonctionne
+- L'élan pour continuer à construire
+
+**C'est comme ça qu'on devient bon au vibe coding. Pas en lisant. En construisant.**
+
+### L'Objectif à Long Terme
+
+**Rappelle-toi l'objectif :**
+
+**Aller de l'idée → application déployée → premiers clients en ~30 jours.**
+
+**Ce cours te donne les fondations. La communauté te donne le soutien. Toi, tu te donnes l'engagement.**
+
+**Si tu es prêt à construire, publier et vendre ce que tu crées — allons-y.**
 
 ---
 
-## 🔗 Join the Community
+## 🎉 Félicitations
 
-**[👉 Join Vibe Coding with Chris on Skool](https://www.skool.com/vibe-coding-with-chris-7196)**
+**Tu as terminé le cours Vibe Coding pour les Nuls.**
 
-**$15/month. Daily lessons. Real builds. Shipping accountability. Let's build together.**
+**Tu sais maintenant :**
+- Ce qu'est le vibe coding
+- Comment utiliser les outils
+- Comment construire et publier
+- Comment réfléchir à l'argent
+
+**Mais ce n'est que le début.**
+
+**Le vrai progrès vient avec des entraînements quotidiens. Le vrai apprentissage vient quand tu publies.**
+
+**Continue à construire. Continue à publier. Continue à améliorer.**
+
+**À bientôt dans la communauté. 👊**
 
 ---
 
-*Built by [Chris Porter](https://www.skool.com/vibe-coding-with-chris-7196) | [Vibe Coding with Chris](https://www.skool.com/vibe-coding-with-chris-7196)*
+## 🔗 Rejoins la Communauté
+
+**[👉 Rejoins Vibe Coding avec Chris sur Skool](https://www.skool.com/vibe-coding-with-chris-7196)**
+
+**15 €/mois. Leçons quotidiennes. Vraies constructions. Responsabilisation sur la publication. Construisons ensemble.**
 
 ---
 
-## 📚 Additional Resources
+*Créé par [Chris Porter](https://www.skool.com/vibe-coding-with-chris-7196) | [Vibe Coding avec Chris](https://www.skool.com/vibe-coding-with-chris-7196)*
 
-- **[Quick Reference Guide](../QUICK-REFERENCE.md)** — Cheat sheet for when you need a reminder
-- **[Troubleshooting Guide](./09-troubleshooting.md)** — Common issues and how to fix them
+---
+
+## 📚 Ressources Supplémentaires
+
+- **[Guide de Référence Rapide](../QUICK-REFERENCE.md)** — Aide-mémoire pour quand tu as besoin d'un rappel
+- **[Guide de Dépannage](./09-troubleshooting.md)** — Problèmes courants et comment les corriger
 

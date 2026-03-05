@@ -1,271 +1,271 @@
-# 💰 SECTION 6 — How This Turns Into Money
+# 💰 SECTION 6 — Comment Ça se Transforme en Argent
 
-Building is fun. Building things people pay for is better. This section shows you how vibe coding turns into real money.
+Construire, c'est amusant. Construire des choses pour lesquelles les gens paient, c'est encore mieux. Cette section te montre comment le vibe coding se transforme en vrai argent.
 
-You don't need to be a "real developer" to make money from software. You just need to solve problems people will pay to have solved.
+Tu n'as pas besoin d'être un « vrai développeur » pour gagner de l'argent avec des logiciels. Tu as juste besoin de résoudre des problèmes que les gens paieront pour avoir résolus.
 
 ---
 
-## Lesson 6.1 — How Vibe Coders Actually Make Money
+## Leçon 6.1 — Comment les Vibe Coders Gagnent Vraiment de l'Argent
 
-### The Reality
+### La Réalité
 
-**You don't need:**
-- A computer science degree
-- Years of experience
-- A perfect product
-- Millions of users
+**Tu n'as pas besoin de :**
+- Un diplôme en informatique
+- Des années d'expérience
+- Un produit parfait
+- Des millions d'utilisateurs
 
-**You need:**
-- A solution to a real problem
-- The ability to build it (vibe coding)
-- The willingness to ship it
-- The courage to charge for it
+**Tu as besoin de :**
+- Une solution à un vrai problème
+- La capacité de le construire (vibe coding)
+- La volonté de le publier
+- Le courage de faire payer
 
-**That's it. That's how vibe coders make money.**
+**C'est tout. C'est comme ça que les vibe coders gagnent de l'argent.**
 
-### How Vibe Coders Make Money
+### Comment les Vibe Coders Gagnent de l'Argent
 
 #### 1. **SaaS (Software as a Service)**
 
-**What it is:** A subscription-based software product
+**Ce que c'est :** Un produit logiciel par abonnement
 
-**Examples:**
-- $10/month for a productivity tool
-- $29/month for a business automation tool
-- $99/month for a specialized software
+**Exemples :**
+- 10 €/mois pour un outil de productivité
+- 29 €/mois pour un outil d'automatisation d'entreprise
+- 99 €/mois pour un logiciel spécialisé
 
-**How vibe coders do it:**
-- Build a simple tool that solves one problem
-- Charge a monthly subscription
-- Improve based on feedback
-- Scale as you grow
+**Comment les vibe coders le font :**
+- Construire un outil simple qui résout un problème
+- Facturer un abonnement mensuel
+- Améliorer basé sur les retours
+- Évoluer à mesure que tu grandis
 
-**Example:** A simple tool that helps freelancers track time and invoices. Charge $15/month. 100 users = $1,500/month.
+**Exemple :** Un outil simple qui aide les freelances à suivre le temps et les factures. Facturer 15 €/mois. 100 utilisateurs = 1 500 €/mois.
 
-#### 2. **Micro Tools**
+#### 2. **Micro Outils**
 
-**What it is:** Small, focused tools that solve one specific problem
+**Ce que c'est :** De petits outils ciblés qui résolvent un problème spécifique
 
-**Examples:**
-- A tool that converts file formats
-- A tool that generates social media content
-- A tool that tracks habits
+**Exemples :**
+- Un outil qui convertit des formats de fichiers
+- Un outil qui génère du contenu pour les réseaux sociaux
+- Un outil qui suit les habitudes
 
-**How vibe coders do it:**
-- Build something hyper-focused
-- Charge a one-time fee or small subscription
-- Keep it simple
-- Market to a specific audience
+**Comment les vibe coders le font :**
+- Construire quelque chose d'hyper ciblé
+- Facturer un frais unique ou un petit abonnement
+- Garder ça simple
+- Commercialiser auprès d'une audience spécifique
 
-**Example:** A tool that helps content creators generate captions. Charge $5/month. 500 users = $2,500/month.
+**Exemple :** Un outil qui aide les créateurs de contenu à générer des légendes. Facturer 5 €/mois. 500 utilisateurs = 2 500 €/mois.
 
-#### 3. **Paid Communities**
+#### 3. **Communautés Payantes**
 
-**What it is:** A community where people pay to access content, support, and resources
+**Ce que c'est :** Une communauté où les gens paient pour accéder au contenu, au support et aux ressources
 
-**Examples:**
-- Coding communities
-- Business communities
-- Niche interest communities
+**Exemples :**
+- Communautés de coding
+- Communautés d'affaires
+- Communautés d'intérêt de niche
 
-**How vibe coders do it:**
-- Build a community platform (or use existing tools)
-- Provide value (lessons, support, resources)
-- Charge a monthly fee
-- Grow the community
+**Comment les vibe coders le font :**
+- Construire une plateforme communautaire (ou utiliser des outils existants)
+- Fournir de la valeur (leçons, support, ressources)
+- Facturer des frais mensuels
+- Faire croître la communauté
 
-**Example:** A vibe coding community (like [Vibe Coding with Chris](https://www.skool.com/vibe-coding-with-chris-7196)). Charge $15/month. 100 members = $1,500/month.
+**Exemple :** Une communauté de vibe coding (comme [Vibe Coding avec Chris](https://www.skool.com/vibe-coding-with-chris-7196)). Facturer 15 €/mois. 100 membres = 1 500 €/mois.
 
 #### 4. **APIs**
 
-**What it is:** A service that other developers/businesses pay to use
+**Ce que c'est :** Un service que d'autres développeurs/entreprises paient pour utiliser
 
-**Examples:**
-- An API that processes images
-- An API that generates content
-- An API that provides data
+**Exemples :**
+- Une API qui traite des images
+- Une API qui génère du contenu
+- Une API qui fournit des données
 
-**How vibe coders do it:**
-- Build a useful API
-- Charge per use or monthly subscription
-- Market to developers/businesses
-- Scale as demand grows
+**Comment les vibe coders le font :**
+- Construire une API utile
+- Facturer par utilisation ou abonnement mensuel
+- Commercialiser auprès des développeurs/entreprises
+- Évoluer à mesure que la demande croît
 
-**Example:** An API that generates social media captions. Charge $0.01 per request. 100,000 requests/month = $1,000/month.
+**Exemple :** Une API qui génère des légendes pour les réseaux sociaux. Facturer 0,01 € par requête. 100 000 requêtes/mois = 1 000 €/mois.
 
-#### 5. **Internal Business Tools**
+#### 5. **Outils d'Entreprise Internes**
 
-**What it is:** Tools built for specific businesses (not public products)
+**Ce que c'est :** Des outils construits pour des entreprises spécifiques (pas des produits publics)
 
-**Examples:**
-- Custom dashboards for businesses
-- Automation tools for specific workflows
-- Internal tools for teams
+**Exemples :**
+- Tableaux de bord personnalisés pour les entreprises
+- Outils d'automatisation pour des workflows spécifiques
+- Outils internes pour les équipes
 
-**How vibe coders do it:**
-- Identify a business need
-- Build a custom solution
-- Charge a project fee or monthly retainer
-- Provide ongoing support
+**Comment les vibe coders le font :**
+- Identifier un besoin d'entreprise
+- Construire une solution personnalisée
+- Facturer des frais de projet ou un contrat mensuel
+- Fournir un support continu
 
-**Example:** A custom dashboard for a local business. Charge $2,000 one-time + $200/month maintenance. 5 clients = $10,000 + $1,000/month.
+**Exemple :** Un tableau de bord personnalisé pour une entreprise locale. Facturer 2 000 € une fois + 200 €/mois de maintenance. 5 clients = 10 000 € + 1 000 €/mois.
 
-### The Common Thread
+### Le Fil Conducteur
 
-**All of these have one thing in common:**
+**Tout ça a une chose en commun :**
 
-They solve a **real problem** that people are willing to **pay to have solved**.
+Ils résolvent un **vrai problème** que les gens sont prêts à **payer pour avoir résolu**.
 
-**You don't need to build the next Facebook. You need to solve one problem well.**
+**Tu n'as pas besoin de construire le prochain Facebook. Tu as besoin de bien résoudre un problème.**
 
-### How to Find Money-Making Ideas
+### Comment Trouver des Idées qui Rapportent
 
-**Ask yourself:**
-1. What problem do I face daily?
-2. What problem do others in my niche face?
-3. What would I pay $10/month to have solved?
-4. What tool would make my life easier?
+**Demande-toi :**
+1. Quel problème est-ce que je rencontre au quotidien ?
+2. Quel problème les autres dans ma niche rencontrent-ils ?
+3. Pour quoi payerais-je 10 €/mois pour que ce soit résolu ?
+4. Quel outil faciliterait ma vie ?
 
-**Then build it. Then charge for it.**
+**Puis construis-le. Puis fais-le payer.**
 
-**That's it. That's the formula.**
-
----
-
-## Lesson 6.2 — Why Speed Matters More Than Perfection
-
-### The 30-Day Momentum
-
-**The goal:** Go from idea → deployed app → first customers in ~30 days.
-
-**Why 30 days?**
-- Long enough to build something real
-- Short enough to maintain momentum
-- Fast enough to get feedback quickly
-- Quick enough to iterate and improve
-
-**Most people take 6 months to build something "perfect" that nobody wants.**
-
-**Vibe coders take 30 days to build something "good enough" that people actually use.**
-
-### Iteration Over Planning
-
-**The planning trap:**
-- Plan for months
-- Build for months
-- Launch to crickets
-- Realize nobody wanted it
-
-**The iteration approach:**
-- Build in days
-- Ship immediately
-- Get feedback
-- Improve based on feedback
-- Repeat
-
-**Planning is guessing. Shipping is learning.**
-
-### Real Feedback > Assumptions
-
-**You don't know what people want until they use it.**
-
-**Assumptions:**
-- "People will want feature X"
-- "Users will use it this way"
-- "This is what the market needs"
-
-**Reality:**
-- People use it differently than you expected
-- Features you thought were important aren't used
-- Problems you didn't anticipate become priorities
-
-**You only learn this by shipping and getting real feedback.**
-
-### The Speed Advantage
-
-**Fast builders:**
-- Ship in 30 days
-- Get feedback in 30 days
-- Improve in 30 days
-- Ship again in 30 days
-
-**Slow builders:**
-- Plan for 6 months
-- Build for 6 months
-- Launch after 6 months
-- Realize it's wrong after 6 months
-- Start over
-
-**Speed wins. Every time.**
-
-### How to Build Fast
-
-**1. Start stupid simple**
-- One core feature
-- Nothing else
-- Ship it
-
-**2. Use your stack**
-- Firebase Studio (no setup)
-- GitHub (version control)
-- Cursor (build fast)
-
-**3. Ship early**
-- Don't wait for perfect
-- Ship when it works
-- Improve after feedback
-
-**4. Iterate quickly**
-- Fix what's broken
-- Add what's needed
-- Remove what's not used
-- Ship again
-
-**That's the vibe coding workflow. Fast. Iterative. Effective.**
-
-### The Money Connection
-
-**Speed = Money**
-
-**Here's why:**
-- Faster to market = first mover advantage
-- Faster feedback = better product fit
-- Faster iteration = more value delivered
-- Faster shipping = more revenue sooner
-
-**Slow builders make $0 while they plan. Fast builders make money while they improve.**
+**C'est tout. C'est la formule.**
 
 ---
 
-## 🎯 Action Step: Think About Money
+## Leçon 6.2 — Pourquoi la Vitesse Compte Plus que la Perfection
 
-**Right now, answer these questions:**
+### L'Élan des 30 Jours
 
-1. **What problem could you solve that people would pay for?**
-   - Write down 3 ideas
-   - Pick the simplest one
-   - That's your next project
+**L'objectif :** Aller de l'idée à l'application déployée aux premiers clients en ~30 jours.
 
-2. **How would you monetize it?**
-   - SaaS subscription?
-   - One-time fee?
-   - Paid community?
-   - API?
-   - Custom tool?
+**Pourquoi 30 jours ?**
+- Assez long pour construire quelque chose de réel
+- Assez court pour maintenir l'élan
+- Assez rapide pour obtenir des retours rapidement
+- Assez rapide pour itérer et améliorer
 
-3. **What's your 30-day plan?**
-   - Week 1: Build core feature
-   - Week 2: Test and improve
-   - Week 3: Add monetization
-   - Week 4: Launch and get first customers
+**La plupart des gens prennent 6 mois pour construire quelque chose de « parfait » que personne ne veut.**
 
-**Don't wait. Start thinking about money now.**
+**Les vibe coders prennent 30 jours pour construire quelque chose de « suffisamment bon » que les gens utilisent vraiment.**
 
-**Remember:** You don't need to be perfect to make money. You need to solve a problem people will pay to have solved.
+### Itération Plutôt que Planification
+
+**Le piège de la planification :**
+- Planifier pendant des mois
+- Construire pendant des mois
+- Lancer dans le vide
+- Réaliser que personne ne le voulait
+
+**L'approche d'itération :**
+- Construire en jours
+- Publier immédiatement
+- Obtenir des retours
+- Améliorer basé sur les retours
+- Répéter
+
+**Planifier, c'est deviner. Publier, c'est apprendre.**
+
+### Vrais Retours > Hypothèses
+
+**Tu ne sais pas ce que les gens veulent jusqu'à ce qu'ils l'utilisent.**
+
+**Hypothèses :**
+- « Les gens voudront la fonctionnalité X »
+- « Les utilisateurs l'utiliseront de cette façon »
+- « C'est ce dont le marché a besoin »
+
+**Réalité :**
+- Les gens l'utilisent différemment de ce que tu attendais
+- Les fonctionnalités que tu pensais importantes ne sont pas utilisées
+- Des problèmes que tu n'avais pas anticipés deviennent des priorités
+
+**Tu n'apprends ça qu'en publiant et en obtenant de vrais retours.**
+
+### L'Avantage de la Vitesse
+
+**Les constructeurs rapides :**
+- Publient en 30 jours
+- Obtiennent des retours en 30 jours
+- S'améliorent en 30 jours
+- Publient de nouveau en 30 jours
+
+**Les constructeurs lents :**
+- Planifient pendant 6 mois
+- Construisent pendant 6 mois
+- Lancent après 6 mois
+- Réalisent que c'est incorrect après 6 mois
+- Recommencent
+
+**La vitesse gagne. À chaque fois.**
+
+### Comment Construire Vite
+
+**1. Commence stupidement simple**
+- Une fonctionnalité principale
+- Rien d'autre
+- Publie-la
+
+**2. Utilise ta stack**
+- Firebase Studio (pas de configuration)
+- GitHub (contrôle de version)
+- Cursor (construire vite)
+
+**3. Publie tôt**
+- N'attends pas la perfection
+- Publie quand ça fonctionne
+- Améliore après les retours
+
+**4. Itère rapidement**
+- Corrige ce qui est cassé
+- Ajoute ce qui est nécessaire
+- Supprime ce qui n'est pas utilisé
+- Publie à nouveau
+
+**C'est le workflow vibe coding. Rapide. Itératif. Efficace.**
+
+### La Connexion Argent
+
+**Vitesse = Argent**
+
+**Voici pourquoi :**
+- Plus vite sur le marché = avantage du premier entrant
+- Retours plus rapides = meilleure adéquation produit
+- Itération plus rapide = plus de valeur délivrée
+- Publication plus rapide = plus de revenus plus tôt
+
+**Les constructeurs lents gagnent 0 € pendant qu'ils planifient. Les constructeurs rapides gagnent de l'argent pendant qu'ils s'améliorent.**
 
 ---
 
-**Next:** [FINAL SECTION — What's Next](./08-next-steps.md)
+## 🎯 Exercice Pratique : Réfléchis à l'Argent
+
+**Maintenant, réponds à ces questions :**
+
+1. **Quel problème pourrais-tu résoudre pour lequel les gens paieraient ?**
+   - Note 3 idées
+   - Choisis la plus simple
+   - C'est ton prochain projet
+
+2. **Comment le monétiserais-tu ?**
+   - Abonnement SaaS ?
+   - Frais unique ?
+   - Communauté payante ?
+   - API ?
+   - Outil personnalisé ?
+
+3. **Quel est ton plan pour 30 jours ?**
+   - Semaine 1 : Construire la fonctionnalité principale
+   - Semaine 2 : Tester et améliorer
+   - Semaine 3 : Ajouter la monétisation
+   - Semaine 4 : Lancer et obtenir les premiers clients
+
+**N'attends pas. Commence à réfléchir à l'argent maintenant.**
+
+**Rappel :** Tu n'as pas besoin d'être parfait pour gagner de l'argent. Tu as besoin de résoudre un problème pour lequel les gens paieront.
+
+---
+
+**Suivant :** [SECTION FINALE — Et Après ?](./08-next-steps.md)
 
 
